@@ -1,0 +1,2092 @@
+1
+2O24
+FOURTH QUARTER 
+BUDGET IMPLEMENTATION REPORT
+[PROVISIONAL]1
+1 The implementation period of the 2024 Capital Budget had been extended to December 2025, with additional 
+capital releases expected during the extended period.
+ 
+ 
+BUDGET 
+OFFICE 
+OF 
+THE 
+FEDERATION 
+Ministry 
+of 
+Budget 
+and 
+Economic 
+Planning
+
+i
+FOREWORD
+This Fourth Quarter and Consolidated Budget Implementation Report (BIR) 
+for 2024 is produced by the Budget Office of the Federation (BOF) in 
+compliance with the Fiscal Responsibility Act, 2007. It reflects the Federal 
+Government’s continued commitment to transparency, accountability, and 
+sound public financial management.
+The report offers a comprehensive review of Nigeria’s macroeconomic and 
+fiscal performance in Q4 2024. The economy recorded a real Gross 
+Domestic Product (GDP) growth of 3.84%, driven primarily by the services 
+and non-oil sectors. Inflation remained elevated at 34.80%, while external 
+reserves rose to $40.19 billion. Revenue shortfalls persisted, especially in oil 
+receipts, while non-oil revenues exceeded expectations. Total FG revenue 
+stood at ₦20.98 trillion, and expenditure reached ₦34.49 trillion, resulting in 
+a fiscal deficit of ₦13.51 trillion, financed wholly by multi-lateral/bilateral 
+project-tied loan, domestic/foreign borrowing and budget support.
+Despite fiscal pressures, the government prioritized capital investment, 
+releasing ₦5.81 trillion, with an 81.91% utilization rate by MDAs. The debt-
+to-GDP ratio however reached 61.22%, highlighting the ongoing imperative 
+to strengthen current domestic revenue mobilization efforts and ensure fiscal 
+sustainability.
+This report is the result of collaboration among financial and statistical 
+agencies, with particular recognition of the Budget Monitoring and Evaluation 
+Department. It provides policymakers, stakeholders, and the public with 
+reliable data and analysis to inform decision-making and advance Nigeria’s 
+development goals.
+Sen. Abubakar Atiku Bagudu, CON
+Honourable Minister, Budget and Economic Planning.
+
+ii
+PREFACE
+The Budget Office of the Federation (BOF) monitors the implementation of 
+the Federal Government’s budgets on a quarterly basis and produces 
+detailed reports in accordance with the requirements of the Fiscal 
+Responsibility Act, 2007. This Fourth Quarter and Consolidated Budget 
+Implementation Report (BIR) for 2024 is one of the in-year publications 
+prepared by the BOF. It reflects the commitment of the Ministry of Budget 
+and Economic Planning (MBEP) to ensuring budget transparency, 
+accountability, and evidence-based fiscal management, in line with Nigeria’s 
+obligations under the Open Government Partnership (OGP) and the broader 
+Public Financial Management (PFM) Reform agenda.
+The Fourth Quarter 2024 Macroeconomic and Financial Analysis provides a 
+comprehensive and data-rich assessment of Nigeria’s economic and fiscal 
+performance. It highlights key insights and implications for policy and 
+strategic planning across four main domains:
+1. Macroeconomic Overview
+Nigeria’s economy expanded by 3.84% year-on-year in Q4 2024, up from 
+3.46% in Q3 and Q4 2023. The services sector led this growth, contributing 
+57.38% to GDP. Annual GDP growth for 2024 stood at 3.40%, a significant 
+rise from 2.74% in 2023. The non-oil sector grew by 3.96%, driven by 
+financial services, telecommunications, agriculture, and trade. The oil sector, 
+while posting a modest 1.48% annual increase, contracted on a quarterly 
+basis and its GDP share dropped to 4.60%. 
+Inflation reached 34.80% by December 2024, with food inflation at 39.84% 
+and core inflation at 29.28%. Broad Money (M2) increased by ₦3.92 trillion. 
+The MPR was raised to 27.5%. Credit to government declined, while credit 
+to the private sector rose slightly.
+2. External Sector
+Merchandise trade rose to ₦36.6 trillion, with exports accounting for 54.68%, 
+mainly crude oil (₦13.78 trillion). Imports grew to ₦16.59 trillion. The 
+exchange rate closed at ₦1,553.73/USD. Foreign reserves grew to $40.19 
+billion, a 21% increase from Q4 2023.
+
+iii
+3. Fiscal Performance and Budget Execution
+Federal Government revenue totaled ₦20.78 trillion (66.59% higher than 
+2023 but 19.68% below the target). Oil revenue underperformed at ₦15.07 
+trillion, while non-oil revenue outperformed at ₦16.09 trillion. Expenditure 
+was ₦27.47 trillion. Non-debt recurrent spending stood at ₦8.53 trillion; debt 
+service reached ₦11.03 trillion. ₦5.81 trillion was released for capital 
+projects, with 81.91% utilized by MDAs. The fiscal deficit was ₦9.18 trillion, 
+financed through domestic borrowing. Debt-to-GDP rose to 61.22%.
+4. Strategic and Policy Considerations 
+Revenue reforms focus on improving tax administration, reviewing fiscal 
+incentives, and enhancing digitalized non-oil revenue sources. Infrastructure 
+and social sector investments remain priorities, alongside green finance 
+strategies. Efforts to grow the revenue-to-GDP ratio from -8% to 18% by 
+2025 are critical for sustainability.
+Conclusion
+Despite global and domestic pressures, the 2024 Budget was implemented 
+with appreciable level of fiscal discipline. Key priorities going forward include 
+enhanced fiscal discipline, a broadened revenue base, rationalized 
+spending, and strategic capital prioritization. The report underscores the 
+importance of accountability, effective project management, and continued 
+reform to deliver economic resilience and inclusive growth.
+This report is the outcome of rigorous work by the Budget Office of the 
+Federation in collaboration with key financial and statistical institutions. In 
+particular, the contributions of the Budget Monitoring and Evaluation 
+Department are commendable.
+As we look ahead, sustaining the gains of 2024 requires enhanced 
+coordination across MDAs, effective implementation of the Medium-Term 
+Expenditure Framework, and a relentless focus on accountability, efficiency, 
+and inclusive development.
+Tanimu Yakubu
+Director General, Budget Office of the Federation
+
+iv
+TABLE OF CONTENTS
+FOREWORD I
+PREFACE III
+TABLE OF CONTENTS V
+TABLE OF ACRONYMS VI
+LIST OF TABLES VII
+LIST OF FIGURES VIII
+EXECUTIVE SUMMARY IX
+1.0 INTRODUCTION 1
+2.0 MACROECONOMIC DEVELOPMENTS AND ANALYSIS 4
+2.1 PERFORMANCE OF THE GLOBAL ECONOMY 4
+2.2 DOMESTIC MACROECONOMIC PERFORMANCE 5
+2.2.1 Developments in Real Sector 5 
+2.2.1.1 GDP Growth 5 
+2.2.1.2 Oil Sector 5
+2.2.1.3 Non-Oil Sector 6
+2.2.2 Developments in Prices 7
+2.2.3 Developments in Money Market 8
+2.2.4 Developments in the External Sector 10
+2.2.4.1 External Trade 10
+2.2.4.2 Balance of Trade 10 
+2.2.4.3 Exchange Rates 11
+2.2.4.4 External Reserves 11
+2.2.5 Debt Stock 12
+2.2.5.1 Total Public Debt Stock 12
+2.2.5.2 Domestic Debt Stock 13
+2.2.5.3 External Debt Stock 13
+3.0 FINANCIAL ANALYSIS OF THE 2024 BUDGET IMPLEMENTATION 15
+3.1 KEY ASSUMPTIONS AND PROJECTIONS 15 
+
+v
+3.1.1 Budget Benchmark Oil Price and Production 16
+3.2 ANALYSIS OF REVENUE PERFORMANCE 18
+3.2.1Performance of Key Oil Revenue Parameters 18
+3.3 AGGREGATE REVENUE OF THE FEDERATION 18
+3.4 OIL REVENUE PERFORMANCE 18
+3.4.1 Net Oil Revenue 19
+3.4.2 Year to Date Oil Revenue Performance 19
+3.5 NON-OIL REVENUE PERFORMANCE 21
+3.5.1 Year to Date Non-Oil Revenue Performance 22
+3.6 COMPARATIVE REVENUE PERFORMANCE ANALYSIS 24
+3.7 DISTRIBUTABLE REVENUE 25
+3.8 EXCESS CRUDE ACCOUNT 26
+3.9 FGN BUDGET REVENUE 27
+3.9.1 Total Federal Government Inflow 30
+3.10 EXPENDITURE DEVELOPMENTS 30
+3.10.1 Non-Debt Recurrent Expenditure 31
+3.10.2 Debt Service 32
+3.10.3 Personnel and Overhead Cost 34
+3.10.4 Statutory Transfers 34
+3.10.5 Capital Expenditure Performance 34
+3.10.6 Capital Release 34
+3.10.7 MDAs Capital Vote Utilization 35
+3.10.8 Budget Deficit and Performance of the Financing Items 36
+4.0 CONCLUSION 37
+APPENDIX I 38
+
+vi
+TABLE OF ACRONYMS
+A/C: Account
+AIE: Authority to Incur Expenditure
+AF: Alternative Funding
+AEs: Advanced Economies
+B: Billion
+BDC: Bureau De-Change
+BOF: Budget Office of the Federation
+BREXIT: British Exit
+CBN: Central Bank of Nigeria
+CIT: Company Income Tax
+COVID-19:Corona Virus Disease - 2019
+DMO: Debt Management Office
+ECA: Excess Crude Account
+EMDEs: Emerging Markets and 
+Developing Economies
+EMEs: Emerging Markets Economies
+FAAC: Federation Account Allocation 
+Committee
+FGN: Federal Government of Nigeria
+FMFBNP: Federal Ministry of Finance, 
+Budget and National Planning
+GDP: Gross Domestic Product
+IMF: International Monetary Fund
+INEC: Independent National Electoral 
+Commission
+JVC: Joint Venture
+LNG: Liquefied Natural Gas
+M2: Money Supply
+MB&NP: Ministry of Budget and National 
+Planning
+MBPD: Million Barrels Per Day
+MDAs: Ministries, Departments and 
+Agencies
+MPR: Monetary Policy Rate
+MSMS: Micro, Small and Medium Scale
+MTFF: Medium Term Fiscal 
+Framework
+N: Naira
+NBS: National Bureau of Statistics
+NDDC: Niger Delta Development 
+Commission
+NHRC: National Human Rights 
+Commission
+NJC: National Judiciary Commission
+NNPC: Nigerian National Petroleum 
+Corporation
+NTB: Nigerian Treasury Bills
+OAGF: Office of the Account General of 
+the Federation
+ONSA: Office of National Security Adviser
+OPEC: Organization of Petroleum 
+Exporting Countries
+OTC-FMDQ-OTC: Over the Counter 
+Financial Market Dealer Quotation
+PCC: Public Complaint Commission
+PPT: Petroleum Profit Tax
+PSC: Production Sharing Contracts
+SC: Service Contracts
+SITC: Standard International Trade 
+Classification
+SWF: Sovereign Wealth Fund
+TSA: Treasury Single Account
+UBEC: Universal Basic Education 
+Commission
+US: United States
+VAT: Value Added Tax
+WEO: World Economic Outlook
+ZBB: Zero Base Budgeting
+
+vii
+LIST OF TABLES
+Table 3.1: Key Assumptions and Targets for 2020 - 2024 Budget…………………….15
+Table 3.2:Detailed Assumptions for Oil Production and Taxes (2020 – 2024) ……...17
+Table 3.3: Revenue Performance in the Fourth Quarter of 2024 Vs 2023…………….20
+Table 3.4:Net Distributable Revenue as at Dec. 2024 (Oil Revenue at Benchmark Assumptions) ...23 
+Table 3.5:Actual Performance of Non-Oil Revenue Categories (Fourth Quarter) 2015 – 2024 …. 24
+Table 3.6: Percentage Growth in Non-Oil Revenue Performances (Fourth Quarter) 2016 – 2024….24
+Table 3.7: Net Excess Crude Account…………………………………………………...26
+Table 3.8:Inflows to the 2024 Federal Budget as at December, 2024………………. 28
+Table 3.9: FGN Budget Expenditure and Fiscal Account (in N’ Billion) as at December 2024……...33
+Table 3.10:Capital Budget Utilization by MDAs (as at 31 st March, 2025) ………………. 35
+
+viii
+LIST OF FIGURES 
+Figure 2.1:GDP Percentage Growth (Q1 2019 – Q4 2024) ……………………………...5
+Figure 2.2:Oil and Non-Oil Real GDP Growth Rate percent 
+(Q1 2020 – Q4 2024) ……………………………………………………………6
+Figure 2.3:Inflation Rate (December 2023 – December 2024) ………………………...8
+Figure 2.4:M2 Growth Rate and Interest Rates Trend (Dec. 2023 – Dec. 2024) ...…. 9
+Figure 2.5:Naira/US$ Exchange Rates Trend (Dec. 2023 – Dec. 2024) ...………….11
+Figure 2.6: Level of External Reserves in Billion Dollars (Dec. 2023 – Dec. 2024) ….12
+Figure 2.7:Total Public Debt Stock (Fourth Quarter 2024) …………………………….13
+Figure 2.8:Budget Oil Production by Business Arrangements 2010 – 2024...……….17
+Figure 2.9:2023 Vs 2024 Revenue Performance (Fourth Quarter) …………………...21
+Figure 3.0:Projected Vs Actual FAAC Revenue Receipts (as at December 2024) ...25
+Figure 3.1:Contributions to Distributable Revenue (4th Quarter of 2024) …………….26
+Figure 3.2: Contributions to FGN Budget Revenue in the Fourth Quarter of 2024……29
+Figure 3.3:FGN Revenue (Budget Vs Actual as at December 2024) ………………….30
+Figure 3.4: 2014 – 2024 Budget Expenditure Profile…………………………………….31
+Figure 3.5: Personnel, Overhead and Capital Expenditure Trends (2014 – 2024) ….32
+Figure 3.6: Pictorial Representation of Selected MDAs Capital Performance ……….36
+
+ix
+EXECUTIVE SUMMARY
+The 2024 Appropriation Act is an important tool for achieving Government’s 
+strategic objectives aimed at improving the macroeconomic environment, 
+enhancing investment in critical infrastructure and human capital 
+development and enabling institutions especially in key job creating sectors. 
+The 2024 Budget was titled “Budget of Renewed Hope’’. The allocations to 
+MDAs were guided by the strategic objectives of the National Development 
+Plan 2021 to 2025, which are: Diversifying the economy, with robust MSME 
+growth; Investing in critical infrastructure; Strengthening security and 
+ensuring good governance; Enabling a vibrant, educated and healthy 
+populace; Reducing poverty; and minimizing regional, economic and social 
+disparities.
+The 2024-2026 Medium Term Expenditure Framework and Fiscal Strategy 
+Paper (MTEF/FSP) also provided the economic framework for the 2024 
+Budget, along with fiscal policy objectives and spending priorities of the 
+Government over the three-year period. It also provides the foundation for 
+the preparation of revenue and expenditure estimates of the annual federal 
+budget. Hence, the MTEF represents efforts towards multi-year perspective 
+in budgeting.
+Nigeria’s Gross Domestic Product grew by 3.84 percent (year-on-year) in 
+real terms in the fourth quarter of 2024. The growth rate implies an increase 
+of 0.38 percentage points when compared with the 3.46 percent reported in 
+the fourth quarter of 2023. The increase in growth rate could be attributed to 
+the impacts of government’s structural reforms on productive activities. 
+The growth rate was also 0.38 percentage points higher than the 3.46 
+percent recorded in the third quarter of 2024. The performance was driven 
+mainly by the Services sector, which recorded a growth of 5.37% and 
+contributed 57.38% to the aggregate GDP.
+The moderation in inflation experienced in the third quarter of 2024 was 
+reversed with inflation rate tipping upwards at high double-digit in the fourth 
+quarter of the year. Headline inflation was 34.80 percent on a year-on-year 
+basis, 2.10 and 5.87 percentage points higher than 32.70 percent as at 
+September 2024 and the 28.92% recorded in December 2023. The upward 
+
+x
+movement in inflation trend, particularly over the 2023 figures, is attributed 
+to exchange rate, energy prices and high food prices. Increases in food and 
+core inflation drove the rate rise in the review period. Core inflation Year-on-
+Year change was 28.40% in December 2024, 1.91 and 5.33 percentage 
+points from 31.73% and 23.07% in September 2024 and December 2023 
+respectively. Food inflation followed similar trend, increasing 37.77% in 
+September 2024 to 39.85 in December 2024.
+Monetary aggregates increased in the review period relative to the third 
+quarter of 2024. Broad Money Supply (M2) increased by ₦3,924,365.38 
+million (3.59 percent) to ₦109.41 trillion in December, 2024. Net Domestic 
+Asset (NDA) decreased by 3.26 percent (₦2.75 trillion) from ₦84.14 trillion 
+in September to ₦81.39 trillion in December, 2024. The development in NDA 
+was due to the adjustment in Net Domestic Credit (NDC) during the period. 
+Net Domestic Credit (NDC) decreased by 8.75 percent (₦10.09 trillion) from 
+₦115.25 trillion in September to ₦105.16 trillion in December, 2024.
+The decrease in Net Domestic Credit (NDC) was affected by Net Credit to 
+Government and Credit to Private Sector during the period under review. Net 
+Credit to Government decreased by 31.23 percent (₦12.32 trillion) from 
+₦39.46 trillion in September to ₦27.14 trillion in December, 2024. Credit to 
+Private Sector increased by 2.95 percent (₦2.24 trillion) from ₦75.78 trillion 
+in September to ₦78.02 trillion in December, 2024.
+To reduce inflationary pressures, the Central Bank of Nigeria increased the 
+Monetary Policy Rate (MPR) by 0.25% to 27.50 in December, 2024. The 
+asymmetric corridor around the MPR was retained at +500/-100 basis 
+points. The Cash Reserve Ratio (CRR) remained at 50.00 percent during 
+the period. While the Liquidity Ratio was retained at 30.0 percent. 
+Nigeria's total merchandise trade stood at ₦36,604.83 billion in Q4, 2024. 
+This represents an increase of 68.32% compared to the value (₦21,747.40 
+billion) recorded in the corresponding period of 2023 and a rise of 2.20% 
+over the value recorded in the preceding quarter (₦35,818.35 billion). In the 
+quarter under review, exports accounted for 54.68% of total trade with a 
+value of ₦20,014.33 billion, showing an increase of 57.67% rise over the 
+value recorded in the fourth quarter of 2023 (₦12,693.62 billion) but a 
+decrease of 2.55% compared to the value recorded in Q3 2024 (₦20,537.17 
+billion). Nigeria's exports trade continued to be dominated by crude oil in the 
+
+xi
+fourth quarter of 2024, which was valued at ₦13,783.00 billion representing 
+68.87% of total exports while the value of non-crude oil exports stood at 
+₦6,231.33 billion accounting for 31.13% of total exports; of which non-oil 
+products contributed ₦2,842.52 billion or 4.20% of total exports.
+The total public debt stock as at 31st December, 2024 (fourth quarter) stood 
+at ₦144 billion (US$94,225.10 million). This indicates an increase 0f 
+₦2,346.19 billion (1.65 percent) when compared to the ₦142,319.26 billion 
+(US$88,892.43 million) recorded at the end of September, 2024. The 
+breakdown comprised of ₦74,377.92 billion (US$48,444.65 million) or 51.41 
+percent for domestic debt stock while the balance of ₦70,287.53 billion 
+(US$45,780.45 million) or 48.59 percent was for external debt stock. This 
+translates to a net present value of total public debt/GDP ratio of 61.22 
+percent as at the end of December, 2024. This is above the country’s 
+threshold of 40 Percent and the international threshold of 56 percent for 
+comparator countries.
+FGN Budget implementation in the quarter was affected by the price of 
+crude oil in the international market which averaged US$74.65 per 
+barrel in fourth-quarter 2024. This was US$9.25 (11.02 percent) and 
+US$5.38 (0.07 percent) lower than US$83.90 per barrel in the 
+correspondent year and US$80.03 per barrel in third-quarter 2024. The 
+performance also reflects a decrease of US$3.29 per barrel (4.22 percent) 
+below the US$77.96 per barrel oil price benchmark for the 2024 budget. 
+However, the nation recorded an average daily oil production of 1.54 
+million barrels per day (mbpd), lower than the daily average production 
+of 1.56 mbpd recorded in the same quarter of 2023 by 0.03 mbpd but 
+higher than the third quarter of 2024 production volume of 1.47 mbpd 
+by 0.06mbpd. 
+Gross Oil Revenue stood at ₦15.07 trillion representing a ₦4.93 trillion 
+(24.65 percent) decline from ₦19.99 trillion projected in the 2024 Budget. It 
+was however ₦6.71 trillion (80.83 percent) above the actual gross oil 
+revenue of ₦8.35 trillion generated in the corresponding period of 2023. 
+Gross non-oil revenue of ₦16.09 trillion received in 2024 represents an 
+increase of ₦5.29 trillion (48.91 percent) above the annual estimate of 
+₦10.81 trillion. A breakdown of the non-oil revenue items showed that 
+
+xii
+Company Income Tax, Value Added Tax, Electronic Money Transfer Levy 
+(EMTL) and Customs contributed to the impressive performance. 
+Total Revenue Inflow of the Federal Government stood at ₦20.98 trillion at 
+the end of December 2024. This represents an ₦8.50 trillion (68.11 percent) 
+increase when compared to ₦12.48 trillion that was reported at the end of 
+2023, but ₦4.89 trillion (18.92 percent) lower than the 2024 annual budget 
+estimate.
+Total expenditure of the Federal Government stood at ₦34.49 trillion in the 
+review period representing a ₦561.29 trillion (1.60 percent) decrease from 
+the ₦35.05 trillion budget projection for the period. It was however, ₦11.45 
+trillion (49.70 percent) higher than the actual expenditure of ₦23.04 trillion 
+recorded at the end of 2023. A total of ₦8.53 trillion was spent on non-debt 
+recurrent expenditure in the review period representing a decrease of ₦2.74 
+trillion (24.29 percent) from the budget estimate of ₦11.27 trillion for the 
+period. It was however above the non-debt recurrent expenditure of ₦7.08 
+trillion spent at the end of 2023 by ₦1.45 trillion (20.48 percent). Fourth 
+quarter Non-Debt Recurrent expenditure amounted to ₦3.03 trillion, while 
+Statutory Transfers amounted to ₦435.70 billion during the review period.
+Total Recurrent Debt in the fourth quarter of 2024 stood at ₦6.72 trillion 
+indicating an increase of ₦1.84 trillion (37.72 percent) above the ₦4.88 trillion 
+projected for the quarter. A total of ₦1.32 trillion was used to service FGN 
+domestic debt during the quarter. This indicates a difference of ₦6.97 billion 
+(0.53 percent) below the budgeted quarterly estimate. A total of ₦12.36 
+trillion was committed as total debt expenditure for the year, 52.71 percent 
+above the ₦8.27 trillion budgeted for the period.
+A total of ₦5.81 trillion was released and cash-backed to MDAs for their 2024 
+capital projects and programmes in 2024 fiscal year. Available fiscal data 
+revealed that only ₦3.27 trillion (81.91 percent) of the total amount released 
+and cash-backed was utilized by MDAs as at 30th June, 2025.
+The revenue and expenditure outturn of the Federal Government resulted in 
+a fiscal deficit of ₦13.51 trillion in the 2024 fiscal year. This was ₦4.34 trillion 
+(47.33 percent) above the projected budget deficit estimate for the year. It 
+
+xiii
+was also above the ₦10.55 trillion deficit recorded in the corresponding 
+period of 2023. The deficit was financed through multi-lateral/bilateral 
+project-tied loans of ₦1.98 trillion, domestic borrowing of ₦6.06 trillion, 
+foreign borrowing of ₦3.37 trillion and budget support of ₦3.19 trillion in the 
+period under review.
+Overall, the nation’s economy grew by 3.84 percent in the fourth quarter of 
+2024, a sign that the Nigerian economy has continued to recover from the 
+second recession in six years. The positive growth performance in the 
+quarter under review was mostly due to the effect of some measures put in 
+place to curtail the negative impact of the Russia – Ukraine war, the 
+resurgence of COVID-19 Pandemic in some countries, rising inflation and 
+crude oil theft on the country. Specifically, the recent rise in global economic 
+activities, the associated rise in international crude oil demand and price, as 
+well as the various reform measures and incentive packages being executed 
+by the Federal Government significantly impacted developments during the 
+review period. 
+
+1
+1.0 INTRODUCTION
+The Federal Budget remains a very significant tool in achieving 
+Government’s strategic objectives and plans for the socio-economic 
+development of the nation. It shows the allocation of resources to different 
+sectors/agencies by the Government in its effort to deliver public 
+goods/services to the people. The Federal Budget is however not all just 
+about expenditure allocations as it is often presumed by many. Revenue 
+remains a critical and an important part of the FGN budget. The 2024 Budget 
+was titled “Budget of Renewed Hope’’. Allocations to MDAs were guided by 
+the strategic objectives of the National Development Plan (NDP) 2021 to 
+2025, which are: Diversifying the economy, with robust MSME growth; 
+Investing in critical infrastructure; Strengthening security and ensuring good 
+governance; Enabling a vibrant, educated and healthy populace; Reducing 
+poverty; and minimizing regional, economic and social disparities.
+The 2024 Budget continued the reflationary policies of the 2022 and 2023 
+Budgets, which helped to put the economy back on the path of recovery and 
+growth. It was prepared taking into consideration the policies/strategies 
+contained in the 2024-2026 Medium Term Expenditure Framework and 
+Fiscal Strategy Paper (MTEF/FSP). The Budget was also prepared using the 
+Zero-Based Budgeting (ZBB) approach and in line with government’s 
+development priorities, as outlined in the NDP 2021 to 2025. 
+The 2024-2026 MTEF/FSP provided the economic framework for the 2024 
+Budget, along with fiscal policy objectives and spending priorities of the 
+Government over the three-year period. It also provides the plans for 
+attaining Government’s defined objectives, and highlights the key 
+assumptions behind revenue estimates and fiscal targets as well as possible 
+fiscal risks over the medium term. Furthermore, it articulates the nature of 
+the Federal Government’s debt obligations, their fiscal consequences, and 
+measures aimed at reducing them. The MTEF also provides the foundation 
+for the preparation of revenue and expenditure estimates of the annual 
+federal budget. Hence, the MTEF represents efforts towards multi-year 
+perspective in budgeting. 
+Revenue generation remains the main fiscal challenge of the Federal 
+
+2
+Government. The systemic resource mobilization problem has been 
+compounded by recent economic recessions. Several measures are 
+however being employed under the Administration’s fiscal policy and tax 
+reforms to increase revenue and enhance fiscal prudence with emphasis on 
+achieving value for money. These measures include: Improving the tax 
+administration framework including tax filing and payment compliance 
+enhancements; Evaluation of the process and policy effectiveness of Fiscal 
+Incentives, including; Review of Sectors eligible for Pioneer Tax Holiday 
+Incentives under the Industrial Development Income Tax Relief Act 
+(‘IDITRA’); Dimensioning the cost of tax waivers/concessions, and 
+evaluating their policy effectiveness; Setting annual ceilings on Tax 
+Expenditures to better manage their impact on already constrained 
+government revenues; Ensuring that MDAs appropriately account for and 
+remit their internally generated revenue. 
+Others measures include: Identifying and plugging existing revenue 
+leakages to enhance tax compliance and reduce tax evasion; Leveraging 
+technology and automation; plugging fiscal drainers like subsidies; and 
+Optimizing the operational efficiencies and revenue remittance of GOEs to 
+further improve Independent Revenue collection. 
+Strategies to improve revenue mobilization are being sustained in the near 
+term with the goal of achieving the following objectives: Enhancing tax and 
+excise revenues through policy reforms and tax administration measures; 
+Reviewing the policy effectiveness of tax waivers and concessions; Boosting 
+customs revenue through the e-Customs and Single Window initiatives; and 
+Safeguarding revenues from the oil and gas sector. The target over the 
+medium term is to grow the Revenue-to-GDP ratio from about 8 percent 
+currently to 18 percent by 2025. At that level of revenues, the Debt-Service-
+to-Revenue ratio will cease to be worrying. In a simple term, Nigeria does 
+not have a debt problem, but a revenue challenge which the present 
+government is determined to tackle current revenue challenges to ensure the 
+sustainability of public debts. 
+Very importantly, the government is augmenting available resources with 
+loans to finance critical development projects and programmes aimed at 
+improving the economic environment and ensuring effective delivery of 
+public services to the people. Focus has been on: the completion of major 
+
+3
+road and rail projects; the effective implementation of power sector projects; 
+the provision of potable water; construction of irrigation infrastructure and 
+dams across the country; and critical health projects such as the 
+strengthening of national emergency medical services and ambulance 
+system, procurement of vaccines, polio eradication and upgrading of Primary 
+Health Care Centres across the six geopolitical zones. 
+Defence and internal security continue to be top priority of the FGN due to 
+its promise to ensure the security of life, property and investment nationwide 
+by assuring that our gallant men and women in the armed forces, police and 
+paramilitary units are properly equipped, remunerated and well-motivated. 
+The 2024 budget is also the first in our history, where MDAs were clearly 
+advised on gender responsive budgeting. These are part of the critical steps 
+in FGN’s efforts to distribute resources equitably and also to reach out to the 
+vulnerable groups of our society. 
+In 2024, Government continues to strengthen the frameworks for 
+concessions and Public Private Partnerships (PPPs). Capital projects that 
+are good candidates for PPP by their nature are being developed for private 
+sector participation. Government also continues to explore available 
+opportunities in the existing ecosystem of green finance including the 
+implementation of the Sovereign Green Bond Programme and leveraging 
+debt-for-climate swap mechanisms. 
+This Report provides detailed information on the 2024 Fourth Quarter Budget 
+Implementation. The other parts of the Report are organised as follows: 
+Following this introductory section, Section 2 reviews macroeconomic 
+performance, highlighting the performance of the real, monetary and external 
+sectors. Section 3 presents an analysis of Government’s revenue receipts 
+and expenditure in the period under review, while Section 4 is a brief 
+conclusion of the Report. 
+
+4
+2.0 MACROECONOMIC DEVELOPMENT AND ANALYSIS
+2.1 Performance of the Global Economy
+Global Economic Development
+Global economic activities in the last quarter of 2024 grew steadily, as 
+inflation moderated, private consumption improved and monetary policy 
+eased in key markets. Nevertheless, short- and medium-term growth 
+prospects were challenged by rising geopolitical risks and growing policy 
+uncertainty. Growth in global economic activity slowed in Q4 2024, as the 
+decline in manufacturing sectors outweighed the rise in services. Within the 
+advanced economies (AEs) and in many emerging markets and developing 
+economies (EMDEs), mixed patterns were observed, owing to country-
+specific factors. 
+Inflation moderated in most AEs and EMDEs in Q4 2024, following the 
+decline in energy and gasoline prices. Financial markets recorded mixed 
+performances across regions, due, largely to the anticipation of further rate 
+cuts by the Fed and other central banks. The global bonds market slowed in 
+the review quarter as most central banks adopted an accommodative policy 
+stance, signaling the onset of policy normalization.
+The balance of risks to the medium-term outlook is tilted downside amid 
+elevated policy uncertainty and headwinds from ongoing global adjustments. 
+An intensification of protectionist policies, a weaker fiscal outlook or stalled 
+progress on structural reforms, and other supply-side shocks, may hurt 
+growth in the near term. Others include risk of renewed inflationary 
+pressures; higher-for-even-longer interest rates; a stronger US dollar; and 
+geopolitical tensions. On the upside, renegotiation of existing trade 
+agreements and forging of new deals, increase embrace of structural 
+reforms, raised labour supply, reduced misallocation, and enhance 
+competition, among others, could raise medium-term growth.
+As proffered by IMF, policies need to rein in short-term risks and rebuild 
+buffers while pushing ahead efforts to lift medium-term growth prospects. 
+Monetary policy should ensure restoration of price stability to support activity 
+and employment while fiscal policy should consolidate to put public debt on 
+a sustainable path. Beyond the near term, decisive policy action is needed 
+to enhance economic dynamism, boost the supply side, and brighten 
+medium-term growth prospects. Multilateral cooperation remains vital in 
+
+5
+containing fragmentation, sustaining growth and stability, and addressing 
+global challenges.
+2.2 DOMESTIC MACROECONOMIC PERFORMANCE
+2.2.1 Development in Real Sector
+2.2.1.1 GDP Growth
+Nigeria’s Gross Domestic Product grew by 3.84% (year-on-year) in real 
+terms in the fourth quarter of 2024. This is higher than the 3.46% recorded 
+in the fourth quarter of 2023 and the third quarter of 2024 growth rate of 
+3.46%. The 2024 fourth quarter GDP performance was driven mainly by the 
+Services sector, which grew by 5.37% and contributed 57.38% to the 
+aggregate GDP. The agriculture sector grew by 1.76%, from the 2.10% 
+growth recorded in the fourth quarter of 2023. The growth of the industry 
+sector was 2.00%, a decline from 3.86% recorded in the fourth quarter of 
+2023. 
+In terms of share of the GDP, the services sector contributed more to the 
+aggregate GDP in the fourth quarter of 2024 compared to the corresponding 
+quarter of 2023. Overall, the annual GDP growth in 2024 stood at 3.40%, a 
+0.66 percentage points increase from 2.74% in 2023.
+Figure 2.1 GDP Percentage Growth (Q1 2020 – Q4 2024)
+Source: National Bureau of Statistics, 2024
+-8
+-6
+-4
+-2
+0
+2
+4
+6
+2020 2021 2022 2023 2024
+Series1 Series2 Series3 Series4
+
+6
+2.2.1.2 Oil Sector
+The nation recorded an average daily oil production of 1.54 million barrels 
+per day (mbpd) in the fourth quarter of 2024, lower than the daily average 
+production of 1.56 mbpd recorded in the same quarter of 2023 by 0.03 mbpd 
+but higher than the third quarter of 2024 production volume of 1.47 mbpd by 
+0.06mbpd. The real growth of the oil sector was 1.48% (year-on-year) in Q4 
+2024, indicating a decrease of 10.64 percentage points relative to the rate 
+recorded in the corresponding quarter of 2023 (12.11%). Growth decreased 
+by 3.70 percentage points when compared to Q3 2024 which was 5.17%. 
+On a quarter-on-quarter basis, the oil sector recorded a growth rate of -
+7.19% in Q4 2024. 
+The annual growth rate of oil stood at 5.54%, higher than the -2.22% 
+recorded in 2023. The Oil sector contributed 4.60% to the total real GDP in 
+Q4 2024, down from the figure recorded in the corresponding period of 2023 
+and the preceding quarter, where it contributed 4.70% and 5.57% 
+respectively. Overall, it contributed 5.51% in 2024, higher than its 
+contribution of 5.40% in 2023
+Figure 2.2 Oil and Non-Oil Real GDP Growth Rate Percentage (Q1 2022 – Q3 2024)
+Source: National Bureau of Statistics, 2024
+-30
+-25
+-20
+-15
+-10
+-5
+0
+5
+10
+15
+Q1 2022 Q2 2022 Q3 2022 Q4 2022 Q1 2023 Q2 2023 Q3 2023 Q4 2023 Q1 2024 Q2 2024 Q3 2024 Q4 2024
+OIL NON OIL
+
+7
+2.2.1.3 Non-Oil Sector
+The non-oil sector grew by 3.96% in real terms during the reference quarter 
+(Q4 2024). This rate was higher by 0.89 percentage points compared to the 
+3.07% recorded in the same quarter of 2023 and the 3.37% recorded in the 
+third quarter of 2024. The performance of the sector in the fourth quarter of 
+2024 was driven mainly by Financial and Insurance (Financial Institutions); 
+Information and Communication (Telecommunications); Agriculture (Crop 
+production); Transportation and Storage (Road Transport); Trade; and 
+Manufacturing, accounting for positive GDP growth. In real terms, the non-
+oil sector contributed 95.40% to the nation’s GDP in the fourth quarter of 
+2024, higher than the 95.30% share recorded in the fourth quarter of 2023 
+and the third quarter of 2024 groeth of 94.43%. On aggregate, the non-oil 
+sector accounted for 94.49% of GDP in 2024, slightly lower than the 94.60% 
+reported in 2023.
+2.2.2 Price Developments
+The moderation in inflation experienced in the third quarter of 2024 was 
+reversed with inflation rate tipping upwards in the fourth quarter of the year. 
+Also, inflation remained in a high double digit in all the months within the 
+period. Headline inflation was 34.80 percent on a year-on-year basis, 2.10 
+percentage points higher than 32.70 percent as at September 2024. The rate 
+was also 5.87 percentage points higher than the 28.92% recorded in 
+December 2023. Measured on a 12-months moving average, inflation rate 
+was 33.24% indicating a 1.51and 8.58 percentage points increase from the 
+31.73% and 24.66% recorded in September 2024 and December 2023 
+respectively. 
+The upward movement in inflation trend, particularly over the 2023 figures, 
+is attributed to high exchange rate of Naira over other major currencies, and 
+high energy prices in the country, specifically the Premium Motor Spirit 
+(PMS), Automated Gasoline Oil (AGO) and Liquefied Petroleum Gas (LPG). 
+High energy prices and insecurity witness in the country during the period of 
+2023 and 2024 manifested in high food prices as food constituted the major 
+component of CPI basket in the country.
+Increases in Food and Core inflation drove the rate rise in the review period. 
+Core inflation Year-on-Year change was 28.40% in December 2024, 1.91 
+
+8
+and 5.33 percentage points from 31.73% and 23.07% in September 2024 
+and December 2023 respectively. Similarly, core inflation on 12-month 
+moving average basis increased from 25.08% in September 2024 to 
+26.35% during the review period. Food inflation followed similar trend, 
+increasing 37.77% in September 2024 to 39.84% in December 2024. On a 
+12- month moving average basis, food inflation rose by 1.59 and 11.16 
+percentage points to 39.12% in December 2024 from 37.53% and 27.96% 
+recorded in September 2024 and December 2023 respectively.
+Figure 2.3: Inflation Rate (December, 2023 – December, 2024)
+Source: National Bureau of Statistics, 2024
+2.2.3 Developments in Money Market
+Monetary aggregates increased in the review period relative to the third 
+quarter of 2024. Broad Money Supply (M2) increased by ₦3,924,365.38 
+million (3.59 percent) in December, to ₦109.41 trillion in September, 2024. 
+Net Domestic Asset (NDA) decreased by 3.26 percent (₦2.75 trillion) from 
+₦84.14 trillion in September to ₦81.39 trillion in December, 2024.The 
+development in NDA was due to the adjustment in Net Domestic Credit 
+(NDC) during the period. Net Domestic Credit (NDC) decreased by 8.75 
+percent (₦10.09 trillion) from ₦115.25 trillion in September to ₦10516 trillion 
+in December, 2024.
+0
+5
+10
+15
+20
+25
+30
+35
+40
+45
+DEC.2023JAN.2024FEB.2024 Mar-24 Apr-24 May-24 Jun-24 Jul-24 Aug-24 Sep-24 Oct.24 Nov.24 Dec.24
+HEADLINE INFLATION CORE INFLATION FOOD INFLATION
+
+9
+The decrease in Net Domestic Credit (NDC) was driven by movements in 
+Net Credit to Government and Credit to Private Sector during the period 
+under review. Net Credit to Government decreased by 31.23 percent 
+(₦12.32 trillion) from ₦39.46 trillion in September to ₦27.14 trillion in 
+December, 2024. Credit to Private Sector increased by 2.95 percent (₦2.24 
+trillion) from ₦75.78 trillion in September to ₦78.02 trillion in December, 
+2024. 
+The Central Bank of Nigeria increased the Monetary Policy Rate (MPR) to 
+27.50% in December, 2024, an increase of 25 basis points from 27.25% in 
+September of the year. The asymmetric corridor around the MPR was 
+retained at +500/-100 basis points. The Cash Reserve Ratio (CRR) 
+remained at 50.00 percent during the period while the Liquidity Ratio was 
+retained at 30.0 percent.
+Figure 2.4: M2 Growth Rate and Interest Rates Trend (Sep. 2023 – Sep. 2024)
+ 
+Source: Central Bank of Nigeria, 2024
+The above developments led to an increase in the deposit and lending rates 
+in the economy. The average interbank call rate remained unstable from 
+27.83 percent to 28.88 percent and 28.71 percent in October, November and 
+December, 2024 respectively. Similarly, the average prime lending rate 
+increased from 17.38 percent in October to 18.39 percent in November and 
+18.56 in December, 2024. The average maximum lending rate increased 
+from 30.28 percent in October to 31.06 percent in November and then 
+dropped to 29.71 percent in December, 2024 respectively. 
+ 
+0
+10
+20
+30
+40
+50
+24-Mar 24.Apr 24.May 24.JUN 24.JUL 24.AUG 24.SEP 24.OCT 24.NOV 24.DEC
+M2 Growth Rate MPR Prime Lending Rate
+Maximun Lending Rate Inter-Bank Call Rate
+
+10
+2.2.4 Developments in the External Sector 
+2.2.4.1 External Trade
+Nigeria's total merchandise trade stood at ₦36,604.83 billion in Q4, 2024. 
+This represents an increase of 68.32% compared to the ₦21,747.40 billion 
+recorded in the corresponding period of 2023 and a rise of 2.20% over the 
+₦35,818.35 billion recorded in the preceding quarter. 
+In the quarter under review, exports accounted for 54.68% of total trade with 
+a value of ₦20,014.33 billion, showing an increase of 57.67% rise over the 
+₦12,693.62 billion recorded in the fourth quarter of 2023. It however reflects 
+a decrease of 2.55% compared to the value recorded in Q3 2024 
+(₦20,537.17 billion).
+Nigeria's exports trade continued to be dominated by crude oil in the fourth 
+quarter of 2024, which was valued at ₦13,783.00 billion representing 68.87% 
+of total exports while non-crude oil exports stood at ₦6,231.33 billion, 
+accounting for 31.13% of total exports; of which non-oil products contributed 
+₦2,842.52 billion or 4.20% of total exports.
+The share of imports accounted for 41.09% of total trade in the fourth quarter 
+of 2024 with the value of imports amounting to N16,590.51 billion in Q4, 
+2024. This value indicates an increase of 17.59% compared to the 
+N14,108.33 billion recorded in Q4 2023, and 13.06% over the N14,674.05 
+billion recorded in Q3 2024.
+2.2.4.2 Balance of Trade
+The merchandise trade balance for Q4 2024 was at N3,423.82 billion 
+indicating a decrease of 41.09% compared to the value recorded in the 
+preceding quarter. The share of imports accounted for 41.09% of total trade 
+in the fourth quarter of 2024 with the value of imports amounting to 
+N16,590.51 billion in Q4, 2024. This value indicates an increase of 17.59% 
+compared to the value recorded in Q4 2023 (N14,108.33 billion) and 13.06% 
+over the value recorded in Q3 2024 (N14,674.05 billion).
+2.2.4.3 Exchange Rates
+The Naira/US Dollar exchange rate in the Investors and Exporters segment 
+
+11
+of the foreign exchange market depreciated from ₦1,618.22/US$ in 
+September 2024 to ₦1,641.12/US$ in October, ₦1,670.78/US$ in November 
+before appreciating to ₦1,553.73/US$ in December, 2024. The December 
+rate reflects a 3.99% appreciation over the rate in September 2024 but a 
+72.82% depreciation over the ₦899.07/US$ rate as at December 2023. 
+There was no data for the Official/Inter-Bank segment and Bureau-de-
+Change (BDC) segments of the foreign exchange market.
+Figure 2.5: Naira/US$ Exchange Rates Trend (Jan. 2024 – Dec. 2024)
+Source: Central Bank of Nigeria, 2024
+2.2.4.4 External Reserves
+Data from the CBN showed that Nigeria’s gross external reserve increased 
+at the end of the fourth quarter of 2024. The reserve position increased from 
+US$39.29 billion in September to US$39.71 billion in October, US$40.33 
+billion in November and then US$40.19 billion in December, 2024. The 
+performance at the end of December, 2024 represents an increase of 
+US$0.90 billion (2.26 percent) above the figure reported at the end of 
+September, 2024. It was also US$6.97 billion (20.98 percent) above the 
+US$33.22 billion performance recorded at the end of fourth quarter of 2023. 
+The level of external reserves is anticipated to go higher in subsequent 
+quarters due to expected improvement in crude oil production and prices in 
+the near term.
+0
+200
+400
+600
+800
+1000
+1200
+1400
+1600
+1800
+JAN. 24 FEB. 24 MAR. 24 APR. 24 MAY. 24 JUN. 24 JUL. 24 AUG. 24 SEP. 24 OCT.24 NOV.24 DEC.24
+
+12
+Figure 2.6: Level of External Reserves in Billion Dollars (Jan. 2024 – Dec. 2024)
+Source: Central Bank of Nigeria, 2024 
+2.2.5 Debt Stock
+2.2.5.1 Total Public Debt Stock
+The total public debt stock as at 31 st December, 2024 (end-fourth quarter) 
+stood at ₦144 billion (US$94,225.10 million). This indicates an increase 0f 
+₦2,346.19 billion (1,65 percent) when compared to the ₦142,319.26 billion 
+(US$88,892.43 million) recorded at the end of September, 2024. The 
+breakdown comprised of ₦74,377.92 billion (US$48,444.65 million) or 51.41 
+percent for domestic debt stock while the balance of ₦70,287.53 billion 
+(US$45,780.45 million) or 48.59 percent was for external debt stock. This 
+translates to a net present value of total public debt/GDP ratio of 61.22 
+percent as at the end of December, 2024. This is above the country’s 
+threshold of 40 percent and the international threshold of 56 percent for 
+comparator countries.
+0
+5
+10
+15
+20
+25
+30
+35
+40
+45
+JAN. 24 FEB. 24 MAR. 24 APR. 24 MAY. 24 JUN. 24 JUL. 24 AUG. 24 SEP. 24 OCT. 24 NOV. 24 DEC. 24
+
+13
+Figure 2.7: Total Public Debt Stock (Fourth Quarter 2024)
+Source: Debt Management Office, 2024
+2.2.5.2 Domestic Debt Stock
+The Federal Government’s domestic debt stock stood at ₦70,409.86 billion 
+as at the end of December, 2024, representing an increase of ₦1,190.05 
+billion (1.72 percent) above the ₦69,219.81 billion recorded in the third 
+quarter of 2024. It was also ₦17,151.85 billion (32.21 percent) above the 
+₦53,258.01 billion reported in the corresponding period of 2023. The 
+increase in domestic debt relative to the fourth quarter of 2023 was due the 
+new issuance of FGN bonds, Nigerian Treasury Bills and FGN saving bond 
+during the period. A breakdown of the domestic debt stock as at 30 th June, 
+2024 reveal that ₦55,436.13 billion (78.73 percent) is for FGN Bonds, 
+₦12,351.12 billion (17.54 percent) is for Nigerian Treasury Bills (NTBs), 
+₦72.87 billion (0.10 percent) is for FGN Savings Bonds, ₦992.56 billion (1.41 
+percent) is for FGN Sukuk, ₦15.00 billion (0.02 percent) is for Green Bond 
+and ₦1,542.19 billion (2.19 percent) is for Promissory Notes.
+2.2.5.3 External Debt Stock
+Nigeria’s external debt stock as at 31 st December, 2024 stood at 
+US$45,780.45 million. It was US$2,753.55 million (6.40 percent) and 
+US$3,285.29 million (7.73 percent) higher when compared to the 
+US$43,026.55 million reported in the third quarter of 2024 and the 
+Eternal Debt
+ 49%
+Domestic Debt
+ 51%
+Eternal Debt Domestic Debt
+
+14
+US$42,495.16 million reported in the correspondent quarter of 2023 
+respectively
+A breakdown of the external debt stock as at 31st December, 2024 revealed 
+that Multilateral Debts amounted to US$22,316.77 million (48.75 percent), 
+Bilateral Debts amounted to US$6,090.46 million (13.30 percent), 
+commercial (Euro-Bond) amounted to US$17,318.35 million (37.83 percent), 
+while Syndicated Loan accounted for US$54.87 million (0.12 percent)
+
+15
+3.0 FINANCIAL ANALYSIS OF THE 2024 BUDGET IMPLEMENTATION
+3.1 Key Assumptions and Projections
+The 2024 Budget was based on the 2024-2026 Medium Term Fiscal 
+Framework and Fiscal Strategy Paper (MTFF/FSP) which was in line with 
+the Government’s National Development Plan 2020-2025. Table 3.1 
+presents the key assumptions and targets over the period 2016-2024.
+Table 3.1: Key Budget Assumptions and Targets, 2020 – 2024
+ 
+Source: BOF, NNPC, FIRS, and NCS, 2024
+KEY BUDGET ASSUMPTIONS AND TARGETS 2020-2024
+ITEMS 2020 2021 2022 2023 2024
+Projected production in mbpd 1.86 1.86 1.6 1.69 1.78
+budget Benchmark price (per barrel in US) 28 40 73 75 77.96
+Technical Cost of JVC Pbl to oil Companies
+Operating Expenses (T1) in US$ 11.3 10.68 14.3 27.5668 22.57
+Capital Expenses(T2) in US$ 13.99 13.16 11.56 12.77281 10.77
+Petroleum Investment Allowance (10%) 0.34 0.25 0.35 0.284689 0.24
+Technical Cost of PSC Pbl to oil Companies
+Operating Expenses (T1) in US$ 10.02 15.02 12.02 20.0612 18.06
+Capital Expenses(T2) in US$ 8.19 8.27 7.51 7.09165 7.09
+Investment Tax Credit 2.38 2.26 1.28 3.831049 3.63
+Technical Cost of SC pbl to oil Company
+Operating Expenses (T1) in US$ 27.08 24.73096 26.05
+Capital Expenses(T2) in US$ 5.8 3.776715 4.02
+Investment Allowances 1.03 0.890411 0.89
+Technical Costs of Independent pbl to oil Company
+Operating Expenses (T1) in US$ 12.43 11.74 15.73 15.72945 12.03
+Capital Expenses(T2) in US$ 15.39 14.48 12.71 12.7107 11.55
+Investment Allowances 0.37 0.27 0.44 0.439317 0.26
+Weighted Average Rate of PPT-JV Oil 85% 85% 85%
+Weighted Average Rate of PPT-PSC Oil 50.10% 50% 50%
+Weighted Average Rate of PPT - SC Oil 85% 85% 85%
+Weighted Average Rate of PPT- Independent (indigenous 85% 85% 85%
+Weighted Average Rate of PPT- Marginal 85% 85% 85%
+Royalty Rates
+Weighted Average Rate of Royalties- JV Oil 19.70% 20% 20%
+Weighted Average Rate of Royalties - PSC 10.40% 12% 12%
+Weighted Average Rate of Royalties -SC Oil 20% 20% 20%
+Weighted Average Rate Of Royalties- Independent 17.70% 18% 18%
+Weighted Average Rate Of Royalties- Marginal 4.10% 3% 3%
+Average Exchange Rate(NGN/US$) 360 379 410 435.57 800
+Vate Rate 7.50% 7.50% 7.50% 7.50% 7.50%
+CIT Rate 30% 30% 30% 30.00% 30.00%
+
+16
+3.1.1 Budget Benchmark Oil Price and Production
+The benchmark price of oil for the 2024 Budget was pegged at 
+US$77.96/barrel while benchmark oil production was estimated at 
+1.78mbpd. Government continues to use benchmark oil production and price 
+for the yearly budget so as to insulate budget expenditures from the 
+instabilities in domestic production and the price of oil in the global market. 
+Budgeted crude oil output was projected upward from 1.69mbpd in 2023 to 
+1.78mbpd in 2024 while a decrease in the cost outlay was projected as 
+against the 2023 budgeted figures. The Technical Cost comprising average 
+of operating and capital expenses were reviewed downward in the 2024 
+fiscal year when compared to the rates in 2023 for both the Joint Ventures 
+(JVs) and the Independent Contracts. The average expenses [Capital (T1) 
+and Operating (T2)] for the JVs production arrangement decreased from 
+US$40.34 per barrel in 2023 to US$33.34 per barrel in 2024 indicating a 
+decrease of US$7.00 per barrel in the period. The average expenses for the 
+Independent Contracts was reduced to US$23.58 per barrel in 2024. 
+Similarly, the average expenses [Capital (T1) and Operating (T2)] for the 
+Production Sharing Contracts were adjusted downward from U$27.15 per 
+barrel in 2023 to U$25.15 per barrel in 2024. 
+The share of oil production by business arrangement remained relatively 
+stable with the JVs and PSCs dominating at approximately 35.8 and 43.9 
+percent respectively. The share of Independent Contract increased from 
+12.9 percent in 2023 to 15.8 percent in 2024. Information on expected 
+contributions of oil production by business arrangement are presented in 
+Figure 3.1 while the analysis of contributions and duties for key oil taxes that 
+are projected to accrue to the Federation are presented in Table 3.2. These 
+rates remained largely unchanged with the rates in the 2023 budget 
+framework. 
+
+17
+Figure 2.8: Budget Oil Production by Business Arrangements 2020 – 2024
+Source: NAPIMS/NNPC, 2024
+Table 3.2: Detailed Assumptions for Oil Production and Taxes (2020 - 2024)
+Source: NNPC and BOF, 2024
+Share of Production 2018
+2020 
+production 
+volume
+2020 
+percentage
+2021 
+production 
+volume
+2021 
+percentage
+2022 
+production 
+volume
+2022 
+Percentage
+2023 
+Production 
+Volume
+2023 
+Percentage
+2024 
+production 
+volume
+2024 
+percentage
+Joint Ventures 0.68% 37.60% 0.716 36.64% 0.664 39.80% 0.683 38.76 0.635 35.8
+Altetrnative Funding 0 0.00% 0 0.00 0 0
+External Financing 0.041 2.10% 0.056 3.36% 0.06 3.41 0 0
+Modified Carry 
+Arrangement 0.05% 2.92% 0.067 3.43% 0.067 4.02% 0.082 4.65 0 0
+Production Sharimg 
+Contract 0.70% 39.03% 0.812 41.56% 0.469 28.13% 0.554 31.44 0.779 43.9
+Idependents 0.22 11.96% 0.19 9.72% 0.302 18.12% 0.228 12.94 0.281 15.8
+Service Contract 0.8 0.18% 0.003 0.15% 0.002 0.12% 0 0.00 0.081 0
+Marginal 0.03 1.86% 0.035 1.79% 0.04 2.40% 0.086 4.88 0 4.6
+Base Production 1.6 95.98% 1.693 96.08 1.78 100
+Repayment Arrears 0.08 4.26% 0.09 4.61% 0.067 4.02% 0.069 3.92 0 0
+Equity Financing 0.04 2.18% 0.00 0 0
+Total oil Production 1.8 100% 1.954 100.00% 1.667 100% 1.762 100.00 1.78 100
+PPT Rates
+weighed Average 
+MAFIndependentMargina
+l 89% 85.00% 85% 85.00% 85.00%
+Weighed Average PSC 50.10% 50.12% 50.10% 50.10% 50.10%
+Weighed Average SC 85% 85.00% 85% 85.00% 85.00%
+Royalties Fares
+Weighed Average JV 18.67% 18.67% 19.70% 19.80% 19.80%
+Weighed Average-
+Independents 19.31% 19.31% 17.70% 17.50% 17.50%
+Weighed Average-
+Marginal 9.29% 9.29% 4.10% 3.00% 3.00%
+Weighed Average PSC 3.15% 10.00% 10.40% 11.50% 11.50%
+Weighed Averag-SC Oil 18.50% 18.50% 20% 20.00% 20.00%
+0
+0.5
+1
+1.5
+2
+2.5
+3
+3.5
+4
+Prod. Sharing Contracts
+Joint VenturesIndependentsMarginal fields
+External FinancingEquity Financing
+Repayment Arrears
+Modified Carry Arrangement
+Alternative Fundung
+Service Contracts
+2020 2021 2022 2023 2024
+
+18
+3.2 Analysis of Revenue Performance
+3.2.1 Performance of Key Oil Revenue Parameters
+The price of crude oil in the international market averaged US$74.65 
+per barrel in fourth-quarter 2024 which is US$9.25 (11.02 percent) and 
+US$5.38 (0.07 percent) lower than US$83.90 per barrel in the 
+corresponding period in 2023 and US$80.03 per barrel in the third-
+quarter 2024. The performance also reflects a decrease of US$3.29 per 
+barrel (4.22 percent) below the US$77.96 per barrel oil price benchmark for 
+the 2024 budget. 
+The nation however recorded an average daily oil production of 1.54 
+million barrels per day (mbpd), lower than the daily average production 
+of 1.56 mbpd recorded in the same quarter of 2023 by 0.03 mbpd but 
+higher than the third quarter of 2024 production volume of 1.47 mbpd 
+by 0.06mbpd. The oil sector still faced challenges such as oil theft and 
+infrastructural issues.
+3.3 Aggregate Revenue of the Federation
+In the 2024 Fiscal Framework, Gross Federally Collectible Revenue is 
+projected at ₦32,097.42 billion in the 2024 Fiscal Framework, comprising of 
+₦19,996.33 billion (62.30 percent) Oil Revenue and ₦12,101.09 billion 
+(37.70 percent) Other Revenues. This translates to a prorate quarterly Gross 
+Federally Collectible Revenue projection of ₦8,024.35 billion for 2024.
+3.4 Oil Revenue Performance 
+Gross Oil Revenue stood at ₦3,908.50 billion in the fourth quarter of 2024. 
+This translates to a ₦1,090.58 billion (21.82 percent) shortfall when 
+compared with the 2024 prorate quarterly budget estimate. The performance 
+was also ₦714.61 billion (15.46 percent) below the ₦4,623.12 billion 
+generated in the third quarter of 2024 but ₦2,022.39 billion (107.23 percent) 
+above the ₦1,886.11 billion recorded in the corresponding period of 2023.
+A breakdown of the oil revenue performance in the fourth quarter of 2024 
+showed that, Royalties (Oil & Gas) of ₦2,184.64 billion, Concessional 
+Rentals of ₦5.59 billion and Miscellaneous (Pipeline fees etc.) of ₦8.79 
+billion exceeded their quarterly estimate of ₦1,605.90 billion, ₦2.18 billion 
+
+19
+and ₦4.02 billion by ₦578.73 billion (36.04 percent), ₦3.41 billion (156.15 
+percent) and ₦4.77 billion (118.48 percent) respectively. 
+Gas Flared Penalty and Exchange Gain which had zero projection, yielded 
+₦108.54 billion and ₦1,221.49 billion in the quarter under review. On the 
+other hand, Crude Oil and Gas Sales of ₦335.69 billion, Petroleum Profit and 
+Gas Taxes of ₦1,249.68 billion and Incidental Oil Revenue (Royalty 
+Recovery & Marginal Field) of ₦15.57 billion however fell below their 
+quarterly estimates of ₦366.09 billion, ₦2,994.62 billion and ₦26.25 billion 
+by ₦30.40 billion (8.30 percent), ₦1,744.95 billion (58.27 percent) and 
+₦10.69 billion (40.70 percent), respectively. Please see Table 3.4. 
+3.4.1 Net Oil Revenue
+The actual Net Oil Revenue that accrued into the Federation Account in the 
+fourth quarter of 2024 was ₦3,349.25 billion, depicting a decrease of 
+₦896.57 billion (21.12 percent) below the estimated quarterly budget of 
+₦4,245.83 billion. The inflow was lower than the ₦3,988.29 billion net oil 
+revenue recorded in the third quarter of 2024 by ₦639.03 billion (16.02 
+percent) but higher than the ₦2,414.22 billion recorded in the fourth quarter 
+of 2023 by ₦1,574.07 billion (65.20 percent) respectively (Table 3.4). The 
+low Net Oil Revenue performance in the fourth quarter of 2024 when 
+compared with the quarterly budget projection could be attributed to the 
+decrease in oil production and lifting which was also due to low sector 
+investment, legacy issues including crude oil theft and high fiscal deduction 
+including for petroleum subsidy policy of Government. The revenue data are 
+presented in Table 3.3.
+3.4.2 Year to Date Oil Revenue Performance
+A total of ₦15,066.95 billion Gross Oil Revenue was collected in the year as 
+against ₦19,996.33 billion projected for 2024 budget. This represents a 
+decrease of ₦4,929.38 billion (24.65 percent) below the 2024 budget 
+estimate but ₦6,711.74 billion (80.33 percent) above the actual gross oil 
+revenue of ₦8,355.21 billion collected in 2023. A breakdown of the revenue 
+sub-head indicates that Royalties (Oil & Gas) of ₦6,991.68 billion, 
+
+20
+Concessional Rentals of ₦23.71 billion, Incidental Oil Revenue (Royalty 
+Recovery & Marginal Field) of ₦347.75 billion and Miscellaneous (Pipeline 
+fees etc.) of ₦35.20 billion surpassed their annual projections of ₦6,423.62 
+billion, ₦8.73 billion, ₦105.01 billion and ₦16.10 billion by ₦568.06 billion 
+(8.84 percent), ₦14.98 billion (171.45 percent), ₦242.74 billion (231.15 
+percent) and ₦19.10 billion (118.64 percent) respectively. 
+Gas Flared Penalty and Exchange Gain which had zero budget estimate 
+yielded ₦391.26 billion and ₦4,243.93 billion in the review period. Other Oil 
+Revenue items however fell below their respective 2024 projections. Crude 
+Oil & Gas Sales of ₦1,078.98 billion and Petroleum Profit & Gas Taxes of 
+₦6,002.54 billion fell below their yearly projections of ₦1,464.38 billion and 
+₦11,978.49 billion by ₦385.39 billion (26.32 percent), and ₦5,975.95 billion 
+(49.89 percent) respectively. Please see Table 3.4. 
+Table 3.3: Fourth Quarter 2023 - 2024 Revenue Performance
+Source: OAGF and Budget Office of the Federation, (PRMRC) 2024
+Oil revenue performance improved when compared to the levels in 2023 for 
+most of the revenue sources and broad categories in the third quarter of 2024 
+(Figure 3.0). The non-oil revenue items also performed better when 
+compared to their respective levels in 2023. The increase in oil revenue could 
+be attributed to the increase in the price of crude oil in the international 
+2023 2024
+Fourth Quarter 
+Actual
+Fourth Quarter 
+Actual
+Oil Revenue N'bns N'bns N'bns %
+Crude Oil Sales 788.15 335.69 -452.46 -57.41
+Petroleun Profit Tax (PPT) 552.64 1,249.68 697.04 126.13
+Royalties 856.45 2,184.64 1,328.19 155.08
+Gross Oil Receipts 2,774.96 3,908.50 1,133.54 40.85
+Net Oil Receipts 2,414.22 3,349.25 935.03 38.73
+Non-Oil Revenue
+Value Added Tax (VAT) 1,200.30 1,946.82 746.52 62.19
+Company Income Tax (CIT) 897.71 1,463.83 566.12 63.06
+Customs & Excise Duties 535.13 837.38 302.25 56.48
+Special Levies 83.44 73.88 -9.56 -11.45
+Solid Minerals Revenue 4.37 10.95 6.58 150.50
+Electronic Money Transfer Levy 47.25 66.01 18.76 39.70
+Gross Non-Oil Revenue 2,763.84 4,387.93 1,624.09 58.76
+Net Non-Oil Receipts 2,561.32 4,203.22 1,641.90 64.10
+Revenue Items
+Variance
+4th Quarter 2024 Vs 
+4th Quarter 2023
+
+21
+market. The improvement in non-oil revenue collections reflects the success 
+of recent revenue reforms.
+Figure 2.9: 2023 Vs 2024 Revenue Performance (Fourth Quarter)
+Source: OAGF and Budget Office of the Federation, 2024
+3.5 Non-Oil Revenue Performance
+Gross non-oil revenue of ₦4,387.93 billion was collected in the fourth quarter 
+of 2024 signifying an increase of ₦1,685.92 billion (62.39 percent) above the 
+quarterly estimate of ₦2,702.01 billion. A breakdown of the non-oil revenue 
+items showed that Company Income Tax of ₦1,463.83 billion, Value Added 
+Tax of ₦1,946.82 billion and Customs collections of ₦837.38 billion 
+exceeded their respective quarterly projections of ₦814.19 billion, ₦988.53 
+billion and ₦717.22 billion by ₦649.64 billion (79.79 percent), ₦958.29 billion 
+(96.94 percent) and ₦120.17 billion (16.75 percent) respectively. 
+Electronic Money Transfer Levy (EMTL) also recorded a revenue of ₦66.01 
+billion depicting an increase of ₦22.23 billion (50.78 percent) above its 
+quarterly projection of ₦43.78 billion. On the other hand, Special Levies 
+(Federation Account) of ₦73.88 billion fell below its quarterly estimate of 
+₦138.29 billion by ₦64.41 billion (46.58 percent). When compared with their 
+corresponding third quarter performance, Value Added Tax, Electronic 
+Money Transfer Levy, and Customs & Excise Duties grew by ₦164.48 billion 
+(9.23 percent), ₦11.55 billion (21.21 percent) and ₦47.95 billion (6.07 
+
+
+22
+percent) respectively while Company Income Tax and Special Levies fell by 
+₦372.28 billion (20.28 percent) and ₦9.06 billion (10.92 percent). The 
+improved performance of some of the non-oil revenue items in the fourth 
+quarter of 2024 could be attributed to the effective implementation of revenue 
+growth initiatives, the recovery of the economy and the improved 
+performance of the various revenue generating agencies.
+3.5.1 Year to Date Non-Oil Revenue Performance
+The gross non-oil revenue in the year amounted to ₦16,094.46 billion, 
+representing an increase of ₦5,286.42 billion (48.91 percent) above the 
+annual estimate of ₦10,808.05 billion. This results from the improved 
+performance of some of the non-oil revenue items compared to their 
+corresponding annual budget estimates. Company Income Tax of ₦5,798.84 
+billion, Value Added Tax of ₦6,721.36 billion, Electronic Money Transfer 
+Levy of ₦219.11 billion and Customs & Excise Duties of ₦3,032.90 billion 
+respectively increased by ₦2,542.07 billion (78.05 percent), ₦2,767.24 
+billion (69.98 percent), ₦44.00 billion (25.12 percent) and ₦164.03 billion 
+(5.72 percent). On the other hand, Special Levies (Federation Account) of 
+₦322.25 billion however fell below its corresponding annual estimate of 
+₦553.18 billion by ₦230.92 billion (41.74 percent) respectively. 
+
+23
+Table 3.4: Net Distributable Revenue as at December, 2024 (Oil Revenue at 
+Benchmarked Assumption
+Source: OAGF and BOF, 2024 (PRMRC)
+ 2023 
+ACTUAL 
+Budget Quarterly First 
+Quarter
+ Second 
+Quarter
+Third 
+Quarter
+Fourth 
+Quarter Annual Annual 
+A OIL REVENUE ₦b ₦b ₦b ₦b ₦b ₦b ₦b ₦b ₦b % ₦b % ₦b % ₦b %
+1 Gross Profit Oil from Crude Oil & Gas Sales 1,464.38 366.09 365.22 161.49 216.58 335.69 1,078.98 1,903.64 -30.40 (8.30) 119.11 55.00 -385.39 (26.32) -824.66 (43.32)
+2 PPT & Gas Income @ CITA 11,978.49 2,994.62 1,335.62 1,471.41 1,945.84 1,249.68 6,002.54 2,837.23 -1,744.95 (58.27) -696.16 (35.78) -5,975.95 (49.89) 3,165.31 111.56
+3 Oil & Gas Royalties 6,423.62 1,605.90 1,243.45 1,379.60 2,184.00 2,184.64 6,991.68 2,499.34 578.73 36.04 0.64 0.03 568.06 8.84 4,492.34 179.74
+4 Concessional Rentals 8.73 2.18 11.12 4.31 2.69 5.59 23.71 10.22 3.41 156.15 2.90 108.00 14.98 171.45 13.49 132.01
+5 Gas Flared Penalty 0.00 0.00 82.88 125.92 73.92 108.54 391.26 140.54 108.54 34.62 46.83 391.26 250.72 178.40
+6 Incidental Oil Revenue (Royalty Recovery & Marginal Field 
+Licences)
+105.01 26.25 101.71 34.86 195.62 15.57 347.75 155.99 -10.69 (40.70) -180.05 (92.04) 242.74 231.15 191.76 122.93
+7 Miscellaneous (Pipeline Fees etc) 16.10 4.02 13.81 8.13 4.47 8.79 35.20 16.38 4.77 118.48 4.33 96.87 19.10 118.64 18.82 114.88
+8 Exchange Gain 0.00 0.00 589.10 1,327.00 1,106.34 1,221.49 4,243.93 791.88 1,221.49 115.15 10.41 4,243.93 3,452.05 435.93
+9 Sub-Total Oil & Gas Revenue 19,996.33 4,999.08 3,349.62 3,185.71 4,623.12 3,908.50 15,066.95 8,355.21 -1,090.58 (21.82) -714.61 (15.46) -4,929.38 (24.65) 6,711.74 80.33
+10 13% Derivation 2,599.52 649.88 435.45 414.14 601.01 508.11 1,958.70 1,087.17 -141.78 (21.82) -92.90 (15.46) -640.82 (24.65) 871.53 80.17
+11 Total Oil & Gas Revenue after Derivation 17,396.81 4,349.20 2,914.17 2,771.57 4,022.11 3,400.40 13,108.25 7,268.04 -948.81 (21.82) -621.71 (15.46) -4,288.56 (24.65) 5,840.21 80.35
+12 Deductions
+13 Fiscal Deductions (Base JV Cash Call + EF + MCA + RA) - - - - - - 0.00 527.42 0.00 0.00 0.00 -527.42 (100.00)
+14 Other Federally Funded Upstream Projects 136.25 34.06 - - - - 0.00 1,922.96 -34.06 (100.00) 0.00 -136.25 (100.00) -1,922.96 (100.00)
+15
+NUPRC 2.5% Cost of Collection (Royalty,Concessional,Gas 
+Flared & Miscellanous) 262.99 65.75 33.78 37.95 33.83 51.14 156.70 0.00 -14.60 (22.21) 17.32 51.20 -106.29 (40.42) 156.70
+16 NUPRC 4% CoC with Incidental Rev & Signature Bonus 14.26 3.56 - - - - 0.00 0.00 -3.56 (100.00) 0.00 -14.26 (100.00) 0.00
+17 Total Deductions 413.50 103.38 33.78 37.95 33.83 51.14 156.70 2,450.38 -52.23 (50.53) 17.32 51.20 -256.80 (62.10) -2,293.68 (93.61)
+18 Net Oil Revenue 16,983.31 4,245.83 2,880.39 2,733.62 3,988.29 3,349.25 12,951.55 4,817.66 -896.57 (21.12) -639.03 (16.02) -4,031.76 (23.74) 8,133.89 168.83
+19 TO FEDERATION ACCOUNT (OIL) 16,983.31 4,245.83 2,880.39 2,733.62 3,988.29 3,349.25 12,951.55 4,817.66 -896.57 (21.12) -639.03 (16.02) -4,031.76 (23.74) 8,133.89 168.83
+B SOLID MINERAL & OTHER MINING REVENUES
+20 Total Solid Minerals Revenue 10.85 2.71 3.41 5.32 7.30 10.95 26.98 14.94 8.23 303.56 3.65 49.98 16.13 148.63 12.04 80.57
+21 Less 13% Derivation 1.41 0.35 0.44 0.69 0.95 1.42 3.51 1.94 1.07 303.56 0.47 49.98 2.10 148.63 1.57 80.77
+22 Net Solid Minerals after Derivation 9.44 2.36 2.97 4.63 6.35 9.52 23.47 12.99 7.16 303.56 3.17 49.98 14.03 148.63 10.48 80.67
+C DIVIDEND PAYMENT (NLNG) - - - - - - 0.00 0.00 0.00 0.00 0.00 0.00
+D NON-OIL TAX REVENUE
+23 Corporate Tax 3,256.77 814.19 1,014.31 1,484.58 1,836.11 1,463.83 5,798.84 4,267.99 649.64 79.79 -372.28 (20.28) 2,542.07 78.05 1,530.85 35.87
+24 Value-Added Tax 3,954.12 988.53 1,430.92 1,561.27 1,782.35 1,946.82 6,721.36 3,639.32 958.29 96.94 164.48 9.23 2,767.24 69.98 3,082.04 84.69
+25 Electronic Money Transfer Levy (EMTL) 175.11 43.78 47.74 50.90 54.46 66.01 219.11 169.79 22.23 50.78 11.55 21.21 44.00 25.12 49.32 29.05
+26 Customs: Imports, Excise & Fees 2,868.87 717.22 678.97 727.12 789.43 837.38 3,032.90 1,742.01 120.17 16.75 47.95 6.07 164.03 5.72 1,290.89 74.10
+27 Special Levies (Federation Account) 553.18 138.29 81.10 84.33 82.94 73.88 322.25 239.45 -64.41 (46.58) -9.06 (10.92) -230.92 (41.74) 82.80 34.58
+28 Sub-Total 10,808.05 2,702.01 3,253.04 3,908.20 4,545.29 4,387.93 16,094.46 10,058.56 1,685.92 62.39 -157.35 (3.46) 5,286.42 48.91 6,035.90 60.01
+29 FIRS Tax Refunds 75.00 18.75 20.00 55.00 75.00 0.00 150.00 79.00 -18.75 (100.00) -75.00 (100.00) 75.00 100.00 71.00 89.87
+30 4% Collection Cost (CIT, Stamp Duties & Capital Gains) 130.27 32.57 47.89 67.21 75.34 59.47 249.91 203.32 26.90 82.61 -15.87 (21.06) 119.64 91.84 46.59 22.91
+31 4% Collection Cost (VAT & Surcharge on Luxury Items) 158.16 39.54 50.60 54.99 63.08 68.38 237.05 130.97 28.84 72.93 5.30 8.40 78.88 49.87 106.08 80.99
+32
+3% Transfer to North East Development Commission (NEDC) from 
+VAT 113.88 28.47 42.93 46.84 53.47 58.40 201.64 109.18 29.94 105.15 4.93 9.23 87.76 77.07 92.46 84.69
+33 0.5% Transfer to Nigerian Police Trust Fund from VAT 18.98 4.74 0.02 23.38 53.47 3.05 79.92 0.07 -1.69 (35.71) -50.42 (94.29) 60.94 321.10 79.85 -
+35 7% Cost of Collection (Duty, Excise & Fees) 200.82 50.21 47.53 34.19 55.26 58.62 195.60 121.94 8.41 16.75 3.36 6.07 -5.22 (2.60) 73.66 60.41
+36 7% Cost of Collection (Spec. Levies -Fed. Acct.) 38.72 9.68 5.68 4.13 5.81 5.17 20.78 16.76 -4.51 (46.58) -0.63 (10.92) -17.94 (46.33) 4.02 24.00
+37 TO FEDERATION ACCOUNT (NON-OIL) 6,243.44 1,560.86 1,656.25 2,140.13 2,503.43 2,261.36 8,561.18 5,841.41 700.50 44.88 -242.07 (9.67) 2,317.74 37.12 2,719.77 46.56
+38 Total VAT Pool 3,663.10 915.77 1,337.37 1,436.06 1,612.32 1,816.99 6,202.75 3,400.79 901.22 98.41 204.67 12.69 2,539.65 69.33 2,801.96 82.39
+39 Net Non-Oil 10,230.37 2,557.59 3,089.00 3,677.45 4,226.94 4,203.22 15,196.61 9,528.27 1,645.62 64.34 -23.73 (0.56) 4,966.24 48.54 5,668.34 59.49
+40 TO FEDERATION ACCOUNT (Main Pool) 23,226.75 5,806.69 4,536.65 4,873.75 6,491.72 5,610.62 21,512.73 10,659.07 -196.07 (3.38) -881.10 (13.57) -1,714.02 (7.38) 10,853.66 101.83
+E TOTAL DISTRIBUTABLE
+1 Federation Account (Main Pool) 23,226.75 5,806.69 4,536.65 4,873.75 6,491.72 5,610.62 21,512.73 10,659.07 -196.07 (3.38) -881.10 (13.57) -1,714.02 (7.38) 10,853.66 101.83
+2 VAT Pool Account 3,663.10 915.77 1,337.37 1,436.06 1,612.32 1,816.99 6,202.75 3,400.79 901.22 98.41 204.67 12.69 2,539.65 69.33 2,801.96 82.39
+3 Electronic Money Transfer Levy (EMTL) 175.11 43.78 47.74 50.90 54.46 66.01 219.11 169.79 22.23 50.78 11.55 21.21 44.00 25.12 49.32 29.05
+4 GRAND TOTAL 27,064.96 6,766.24 5,921.76 6,360.71 8,158.50 7,493.61 27,934.58 14,059.86 727.37 10.75 -664.88 (8.15) 869.62 3.21 13,874.72 98.68
+4th Quarter Vs 3rd 
+Quarter (Actual)
+ Actual Vs Budget 
+(Annual)
+VARIANCE
+2024 Vs 2023 
+(Actual)
+S/NO DESCRIPTION 4th Quarter Actual 
+Vs Quarterly Budget
+2024 APPROVED 
+BUDGET ACTUAL
+
+24
+Table 3.5: Actual Performance of Non-Oil Revenue (Fourth Quarter) 2015 – 2024
+ 
+,,,,Source: OAGF and BOF, 2024
+Further analysis of the fourth quarter non-oil revenue performance revealed 
+that key non-oil revenue sub-heads improved significantly, especially from 
+2018 and 2024, notwithstanding some few years of fluctuations. Table 3.5 
+and 3.6.
+Table 3.6: Growth in Fourth Quarter Non-Oil Revenue 2016 – 2024 (%)
+ 
+<,,,,,,Source: OAGF and BOF, 2024
+3.6 Comparative Revenue Performance Analysis
+A breakdown of the actual performance of revenue compared with budgeted 
+estimates as at December ending 2024 indicated an under performance of 
+crude oil and gas sales. On the other hand, oil taxes and non-oil taxes 
+showed slight improvement (Figure 3.0). 
+2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 10 - Year 
+Average
+N'bn N'bn N'bn N'bn N'bn N'bn N'bn N'bn N'bn N'bn N'bn
+Custom & Excise Duties 58.95 64.02 156.82 181.88 202.76 237.83 379.30 394.52 535.13 837.38 304.86
+Company Income Tax 129.96 86.57 297.56 347.15 360.53 327.85 370.4 634.90 897.71 1,463.83 491.64
+Value Added Tax 23.89 28.15 246.53 176.41 308.48 454.61 563.7 697.38 1,200.30 1,946.82 564.63
+FGN Independent Revenue 8.97 23.09 37.50 90.03 130.38 235.77 443.84 317.94 564.35 946.02 279.79
+Description
+FOURTH QUARTER ACTUAL
+Description 2016 2017 2018 2019 2020 2021 2022 2023 2024 9 -Year 
+Average
+% % % % % % % % % %
+Custom & Excise Duties 8.60 144.95 15.98 11.99 17.30 59.48 4.01 35.64 56.482 33.11
+Company Income Tax -33.39 243.72 16.67 3.83 -9.06 12.97 71.43 41.39 63.06 38.62
+Value Added Tax 17.83 775.77 12.12 11.60 47.37 24.00 23.71 72.12 62.195 109.39
+FGN Independent Revenue 157.41 62.41 140.08 44.82 80.83 88.25 -28.37 77.5 67.63 69.21
+
+25
+Figure 3.0: Projected Vs Actual FAAC Revenue Receipts (as at December, 2024)
+Source: Budget Office of the Federation, 2024 
+ 
+3.7 Distributable Revenue
+The net distributable revenue available for sharing among the three tiers of 
+government (after the deduction of all costs) stood at ₦7,493.61 billion in the 
+fourth quarter of 2024. This represents an increase of ₦727.37 billion (10.75 
+percent) when compared with the quarterly projection of ₦6,766.24 billion. 
+The increase was driven largely by the substantial rise in the inflow into the 
+Federation Account from the non-oil sector. The non-oil revenue accruing to 
+the Federation Account increased by ₦2,317.74 billion (37.12 percent) and 
+largely augmented the ₦4,031.76 billion (23.74 percent) oil revenue shortfall 
+during the review period. 
+ 
+The percentage contribution of the different revenue classifications to 
+distributable revenue in the fourth quarter of 2024 is presented in Figure 3.5. 
+Oil Revenue, VAT, CIT, Customs & Excise Duties, Special Levy, Electronic 
+Money Transfer Levy and Solid Minerals contributed 43 percent, 25 percent, 
+19 percent, 11 percent, 1 percent and 1 percent respectively.
+
+
+26
+Figure 3.1: Contributions to Distributable Revenue (4th Quarter of 2024)
+Source: Budget Office of the Federation, 2024
+3.8 Excess Crude Account
+Analysis of the reports of the Excess Crude Account (ECA) revealed an 
+opening balance of US$0.473 million in the Account as at 1st October, 2024. 
+There was no accrued interest on fund investment and no outflow/withdrawal 
+from the account during the period under review. This resulted to a closing 
+balance of US$0.473 million as at 31st December, 2024 (Table 3.7).
+Table 3.7: Net Excess Crude Account Flow
+Source: Office of the Accountant General of the Federation, 2024
+First Quarter Second Quarter Third Quarter Fourth Quarter Jan - Dec First Quarter Second Quarter Third Quarter Fourth Quarter Jan - Dec
+Opening Balance - - - - - - US$0.473 million US$0.473 million US$0.473 million US$0.473 million
+Inflows
+Accrued Interest on Fund Investment US$0.002 million US$0.002 million US$0.000 million US$0.000 million US$0.004 million US$0.000 million US$0.000 million US$0.000 million US$0.000 million US$0.000 million
+Total Inflow US$0.002 millionUS$0.002 million US$0.000 million US$0.000 million US$0.004 millionUS$0.000 millionUS$0.473 millionUS$0.473 millionUS$0.000 million US$0.473 million
+Total Outflows - - - - - - - - - -
+Net Excess Crude Account Closing 
+Balance US$0.002 millionUS$0.002 millionUS$0.000 millionUS$0.000 millionUS$0.004 millionUS$0.000 millionUS$0.473 millionUS$0.473 millionUS$0.473 million US$0.473 million
+Description 
+2023 Actual 2024 Actual
+
+27
+3.9 FGN Budget Revenue
+Based on the amended Budget Framework, the sum of ₦25,876.60 billion 
+was projected to fund the Federal Budget in 2024, indicating a quarterly 
+share of ₦6,469.15 billion. A total of ₦6,428.38 billion was received in the 
+fourth quarter of 2024. This amount was ₦40.77 billion (0.63 percent) lower 
+than the ₦6,469.15 billion quarterly budget projection but ₦2,550.25 billion 
+(65.76 percent) higher than ₦3,878.13 billion recorded in the corresponding 
+quarter of 2023. 
+The sum of ₦1,616.27 billion that was received from oil sources in the fourth 
+quarter of 2024 was lower than the quarterly estimate of ₦2,044.07 billion by 
+₦427.81 billion (20.93 percent). FGN’s share of Solid Minerals revenue 
+stood at ₦4.60 billion, indicating an increase of ₦3.46 billion (303.56 
+percent). On the other hand, FGN’s share of Federation Levies amounted to 
+₦33.16 billion indicating a decrease of ₦28.91 billion (46.58 percent) below 
+its budget projection.
+ 
+A breakdown of the non-oil revenue indicates that FGN’s share of Company 
+Income Tax of ₦677.71 billion, VAT of ₦264.52 billion, Customs of ₦375.81 
+and Electronics Money Transfer (Stamp Duties) of ₦8.37 billion were above 
+their corresponding quarterly budget estimates of ₦368.14 billion, ₦128.21 
+billion, ₦321.88 billion and ₦6.10 billion by ₦309.57 billion (84.09 percent), 
+₦136.31 billion (106.32 percent), ₦53.93 billion (16.75 percent) and ₦2.27 
+billion (37.27 percent) respectively. 
+Also, FGN Independent Revenue, Draw Down from Special Levy Accounts, 
+FGN Share of Signature Bonus, Grants & Donor Funding and Education Tax 
+(TETFUND) stood at ₦946.02 billion, ₦1,047.50 billion, ₦173.23 billion, 
+₦418.84 billion and ₦503.74 billion. This indicates an increase above their 
+corresponding quarterly budget estimates of ₦672.94 billion, ₦75.00 billion, 
+₦62.86 billion, ₦171.41 billion and ₦175.00 billion by ₦273.08 billion (40.58 
+percent), ₦972.50 billion (1,296.67 percent), ₦110.36 billion (175.56 
+percent), ₦1,575.21 billion (918.98 percent) and ₦328.74 billion (187.85 
+percent). However, FGN Share of Federation Account Levies and GOEs 
+Retained Revenue of ₦33.16 billion and ₦612.96 billion were below their 
+
+28
+corresponding quarterly budget estimates of ₦62.07 billion and ₦715.27 
+billion by ₦28.91 billion (46.58 percent) and ₦102.31 billion (14.30 percent) 
+respectively. There were no receipts under FGN’s Share of Dividend 
+(NLNG), FGN’s Share of Oil Price Royalty and Additional Revenue (Windfall 
+Tax, Exchange rate Different etc). The Domestic Recoveries which had zero 
+budget estimates contributed ₦447.43 billion towards funding the budget 
+during the quarter (Table 3.8).
+Table 3.8: Inflows to the 2024 Federal Budget as at December, 2024
+ 
+Source: BOF and OAGF, 2024
+2023 
+ACTUAL
+Annual Quarterly First 
+Quarter
+Second 
+Quarter
+Third 
+Quarter
+Fourth 
+Quarter Annual Annual
+Inflow for the Federal Budget (CRF) ₦b ₦b ₦b ₦b ₦b ₦b ₦b ₦b ₦b % ₦b % ₦b % ₦b %
+1 FGN Share of Oil Revenue 8,176.28 2,044.07 1,390.00 1,325.04 1,924.65 1,616.27 6,260.82 2,377.31 -427.81 (20.93) -308.38 (16.02) -1,915.46 (23.43) 3,883.51 163.36
+2 FGN Share of Dividend (NLNG) 357.92 89.48 0.00 0.00 0.00 0.00 0.00 46.22 -89.48 (100.00) 0.00 -357.92 (100.00) -46.22 (100.00)
+3 FGN Share of Solid Minerals & Mining 4.56 1.14 1.43 2.23 3.06 4.60 11.33 6.27 3.46 303.56 1.53 49.98 6.77 148.63 5.06 80.64
+4 FGN Share of Non-Oil 3,569.77 892.44 985.07 1,306.91 1,359.54 1,359.58 5,011.25 3,312.41 467.14 52.34 0.04 0.00 1,441.48 40.38 1,698.84 51.29
+5 FGN Share of Company Income Tax 1,472.58 368.14 456.72 727.34 743.62 677.71 2,605.39 1,923.38 309.57 84.09 -65.91 (8.86) 1,132.81 76.93 682.01 35.46
+6 FGN Share of VAT 512.83 128.21 186.85 192.30 225.19 264.52 868.86 476.11 136.31 106.32 39.33 17.47 356.03 69.42 392.75 82.49
+7 FGN Share of Customs 1,287.53 321.88 304.72 334.39 346.23 375.81 1,361.15 781.80 53.93 16.75 29.58 8.54 73.62 5.72 579.35 74.10
+8 FGN Share of Federation Account Levies 248.26 62.07 36.40 38.70 36.37 33.16 144.63 107.47 -28.91 (46.58) -3.21 (8.84) -103.64 (41.74) 37.16 34.57
+9 Electronics Money Transfer (Stamp Duty) 24.39 6.10 7.13 7.60 8.13 8.37 31.22 23.65 2.27 37.27 0.24 2.98 6.83 28.00 7.57 32.01
+10 Share of Oil Price Royalty 24.17 6.04 0.00 0.00 0.00 0.00 0.00 0.00 -6.04 (100.00) 0.00 -24.17 (100.00) 0.00
+11 FGN Independent Revenue 2,691.78 672.94 318.79 1,307.56 1,103.51 946.02 3,675.88 1,841.00 273.08 40.58 -157.49 (14.27) 984.11 36.56 1,834.88 99.67
+12 Draw-Down from Special Levies Accounts 300.00 75.00 0.00 0.00 130.00 1,047.50 1,177.50 159.00 972.50 1,296.67 917.50 705.77 877.50 292.50 1,018.50 640.57
+13 FGN Share of Signature Bonus 251.46 62.86 5.39 20.58 170.38 173.23 369.58 256.99 110.36 175.56 2.84 1.67 118.12 46.98 112.59 43.81
+14 Domestic Recoveries+Assets+Fines 0.00 0.00 0.00 71.73 0.00 447.43 519.16 0.00 447.43 447.43 519.16 519.16
+15 Grants and Donor Funding 685.63 171.41 338.49 189.91 259.71 418.84 1,206.95 1,572.50 247.43 144.35 159.13 61.27 521.32 76.03 -365.55 (23.25)
+16 Education Tax (TETFUND) 700.00 175.00 91.51 325.32 717.28 503.74 1,637.85 719.44 328.74 187.85 -213.55 (29.77) 937.85 133.98 918.41 127.66
+17 GOEs Retained Revenue 2,861.08 715.27 152.01 162.45 172.88 612.96 1,100.30 2,193.82 -102.31 (14.30) 440.08 254.56 -1,760.78 (61.54) -1,093.52 (49.85)
+18 Other Revenue - Copyright Levy 0.00 0.00 8.15 1.30 9.45 0.00 1.30 -6.85 (84.05) 9.45 9.45
+19
+Additional Revenue (Windfall Tax, Exchange 
+Rate Differential, etc) 6,278.13 1,569.53 0.00 0.00 0.00 0.00 0.00 0.00 -1,569.53 (100.00) 0.00 -6,278.13 (100.00) 0.00
+20 FGN RETAINED REVENUES (Excl. GOEs) 23,015.52 5,753.88 3,130.69 4,719.86 5,676.29 4,606.59 19,879.76 10,291.15 -1,147.29 (19.94) -1,069.70 (18.85) -3,135.76 (13.62) 9,588.61 93.17
+21
+AGGREGATE FEDERAL GOVERNMENT 
+REVENUE 25,876.60 6,469.15 3,586.75 4,882.31 6,082.63 6,428.38 20,980.07 12,484.97 -40.77 (0.63) 345.75 5.68 -4,896.53 (18.92) 8,495.10 68.04
+S/No ITEMS 4th Quarter Actual 
+Vs Quarterly Budget
+2024 BUDGET ACTUAL
+4th Quarter Vs 3rd 
+Quarter (Actual)
+Actual Vs Budget 
+(Annual)
+VARIANCE
+2024 Vs 2023 
+(Actual)
+
+29
+Oil and Gas revenue accounted for 17% percent of total FGN revenue in the 
+review period. The share of other revenue sources is as depicted in Figure 
+3.2.
+Figure 3.2: Contributions to the FGN Budget Revenue in the Fourth Quarter of 2024
+Source: OAGF and BOF, 2024
+Specifically, FGN Share of Oil revenue, GOEs Retained Revenue, 
+Independent Revenue, Share of CIT, Draw Down from special accounts and 
+Grants & Donor Funding contributed largely to the total revenue recorded by 
+the FGN in the quarter under review, accounting for ₦5,513.42 billion of the 
+entire revenue increase. Other contributors include Share of VAT, Share of 
+Customs, Education Tax (TETFUND), Domestic Recoveries and Signature 
+Bonus which accounted for ₦264.52 billion, ₦375.81 billion, ₦503.74 billion, 
+₦447.43 billion and ₦173.23 billion respectively. However, there were no 
+revenue receipts from Windfall Tax, and Exchange Rate Differential, etc 
+during the review period.
+
+
+30
+Figure 3.3: FGN Revenue (Budget Vs Actual as at December, 2024)
+Source: OAGF and BOF, 2024
+3.9.1 Total Federal Government Inflow 
+Total Retained Revenue of the Federal Government (excluding GOEs) stood 
+at ₦19,879.76 billion in the period under consideration. This represents a 
+decrease of ₦3,135.76 billion (13.62 percent) from the 2024 budget estimate 
+of ₦23,015.52 billion. FGN aggregate revenue (inclusive of GOEs) stood at 
+₦20,980.07 billion. This was also lower than the budget projection of 
+₦25,876.60 billion by ₦4,896.53 billion (18.92 percent). The revenue 
+subheads recorded consistent increases from the first to the fourth quarter 
+of the year.
+3.10 Expenditure Developments
+A total of ₦35,055.54 billion was appropriated for expenditure in the 2024 
+Amended Budget. This comprises of ₦11,268.51 billion (32.15 percent) for 
+Non-Debt Recurrent spending, ₦8,270.96 billion (23.59 percent) for Debt 
+Service, ₦1,742.79 billion (4.97 percent) for Statutory Transfers and 
+₦13,773.28 billion (39.29 percent) for Capital Expenditure. This translates to 
+prorate quarterly expenditure outlay of ₦8,763.88 billion in 2024. 
+
+
+31
+Actual expenditure amounted to ₦13,603.66 billion in the fourth quarter of 
+2024, translating to a ₦4,839.77 billion (55.22 percent) expenditure below 
+the budgeted estimate projection for the period. Actual expenditure for the 
+year however amounts to ₦34,494.25 billion which is ₦561.29 billion (1.60 
+percent) below the budget estimate for the fiscal year. The detailed 
+breakdown is presented in Table 3.9.
+Figure 3.4: 2014 – 2024 Budget Expenditure Profile
+Source: Budget Office of the Federation, 2024
+3.10.1 Non-Debt Recurrent Expenditure
+The FGN continued to pursue its goal of reducing the growth in its recurrent 
+expenditure as stated in the 2024-2026 MTEF/FSP. Key initiatives aimed at 
+reducing recurrent costs were therefore pursued vigorously during the 
+period. This includes the embargo on unapproved recruitment by MDAs. All 
+requests for recruitment and enrolment of staff into the FGN payroll are 
+required to, among others, first seek financial clearance from the Budget 
+Office of the Federation. Others include the continuous roll out of the 
+Integrated Payroll and Personnel Information System (IPPIS) to MDAs that 
+are yet to be covered by the scheme as well as the restructuring of the FGN 
+debt towards lower interest rate sources.
+
+
+32
+A total of ₦3,033.70 billion was spent on non-debt recurrent expenditure in 
+the fourth quarter of 2024. This amount revealed an increase of ₦216.57 
+billion (7.69 percent) from the quarterly estimate of ₦2,817.13 billion (details 
+in Figure 3.8). The performance was equally ₦1,202.30 billion (65.65 
+percent) above ₦1,831.40 billion level of expenditure reported in the third 
+quarter of 2024 and ₦960.78 billion (46.35 percent) above ₦2,072.95 billion 
+expenditure reported in the corresponding quarter of 2023.
+Figure 3.5: Personnel, Overhead and Capital Expenditure Trends (2014 – 2024)
+Source: BOF and OAGF, 2024
+3.10.2 Debt Service
+Total Recurrent Debt in the fourth quarter of 2024 stood at ₦3,693.53 billion, 
+indicating an increase of ₦1,625.79 billion (78.63 percent) above the 
+₦2,067.74 billion projected for the quarter. There was no interest payment 
+on Ways and Means in the review period given the successful securitization 
+of the amount outstanding during the year. A total of ₦1,317.96 billion was 
+used to service FGN domestic debt during the quarter. This indicates a 
+difference of ₦6.97 billion (0.53 percent) above the prorate quarterly 
+estimate.
+The sum of ₦686.90 billion was the projected for funding external debt 
+service during the quarter under review. Actual external debt service 
+payment however amounted to ₦2,109.71 billion indicating a difference of 
+₦1,422.81 billion (207.14 percent) above the prorated sum. 
+
+
+33
+Table 3.9: FGN Budget Expenditure and Fiscal Account as at Dec. 2024 (Naira Billion)
+ 
+Source: OAGF and Budget Office of the Federation, 2024
+S/No 2023 
+ACTUAL
+Annual Quarterly First 
+Quarter
+Second 
+Quarter
+Third 
+Quarter
+Fourth 
+Quarter Annual Annual
+₦b ₦b ₦b ₦b ₦b ₦b ₦b ₦b ₦b % ₦b % ₦b % ₦b %
+A
+AGGREGATE FEDERAL GOVERNMENT REVENUE 25,876.60 6,469.15 3,586.75 4,882.31 6,082.63 6,428.38 20,980.07 12,484.97 -40.77 (0.63) 345.75 5.68 -4,896.53 (18.92) 8,495.10 68.04
+B EXPENDITURE:
+1 RECURRENT NON-DEBT:
+2 Personnel Cost (MDAs) 4,792.05 1,198.01 1,145.19 1,175.65 1,268.78 1,202.43 4,792.05 3,965.19 4.42 0.37 -66.35 (5.23) 0.00 (0.00) 826.86 20.85
+3 Personnel Cost (GOEs) 608.41 152.10 104.51 104.52 104.52 352.72 666.27 1,003.11 200.62 131.90 248.20 237.47 57.86 9.51 -336.84 (33.58)
+4 CRF Pensions 673.13 168.28 112.20 112.21 112.21 112.22 448.83 438.55 -56.07 (33.32) 0.00 0.00 -224.30 (33.32) 10.28 2.34
+5 Overhead Cost (MDAs) 773.13 193.29 212.94 157.29 122.26 178.67 671.15 422.15 -14.62 (7.57) 56.41 46.14 -101.98 (13.19) 249.00 58.98
+6 Overhead Cost (GOEs) 451.20 112.80 94.10 94.10 94.11 388.94 671.25 617.58 276.14 244.80 294.83 313.28 220.05 48.77 53.67 8.69
+7 Other Service Wide Votes (+ Gavi/Immunization) 3,770.55 292.64 209.61 98.36 92.42 767.34 1,167.72 531.37 474.71 162.22 674.92 730.28 -2,602.83 (69.03) 636.35 119.76
+8 Presidential Amnesty Programme 65.00 16.25 16.25 16.25 16.25 16.25 65.00 65.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+9 Tetfund-Recurrent 35.00 8.75 0.00 13.16 20.86 15.12 49.14 35.97 6.37 72.75 -5.74 (27.54) 14.14 40.39 13.17 36.60
+10 Special Intervention (Recurrent) 200.00 50.00 0.00 0.00 0.00 0.00 0.00 0.00 -50.00 (100.00) 0.00 -200.00 (100.00) 0.00
+11 Sub-Total (Non-Debt) 11,268.51 2,817.13 1,894.80 1,771.53 1,831.41 3,033.70 8,531.41 7,078.94 216.57 7.69 1,202.29 65.65 -2,737.10 (24.29) 1,452.47 20.52
+12 Domestic Debts Service 5,299.70 1,324.93 989.24 1,863.52 1,533.33 1,317.96 5,704.05 5,035.40 -6.97 (0.53) -215.37 (14.05) 404.35 7.63 668.65 13.28
+13 Foreign Debts 2,747.60 686.90 1,277.27 1,908.85 1,362.08 2,109.71 6,657.92 1,824.88 1,422.81 207.14 747.63 54.89 3,910.32 142.32 4,833.04 264.84
+14 Sub-Total Debt Service 8,047.30 2,011.82 2,266.52 3,772.37 2,895.41 3,427.67 12,361.97 6,860.28 1,415.85 70.38 532.26 18.38 4,314.67 53.62 5,501.69 80.20
+15 Interest on Ways & Means 0.00 0.00 3.05 0.00 0.00 0.00 3.05 1,696.65 0.00 0.00 3.05 -1,693.60 (99.82)
+16 Sinking Fund to Retire Maturing Loans 223.66 55.92 0.00 0.00 0.00 265.86 265.86 0.00 209.94 375.47 265.86 42.20 18.87 265.86
+17 Total Debts 8,270.96 2,067.74 2,269.56 3,772.37 2,895.41 3,693.53 12,630.88 8,556.93 1,625.79 78.63 798.12 27.57 4,359.92 52.71 4,073.95 47.61
+18 Total Recurrent Expenditure 19,539.47 4,884.87 4,164.36 5,543.90 4,726.82 6,727.23 21,162.29 15,635.87 1,842.36 37.72 2,000.41 42.32 1,622.82 8.31 5,526.42 35.34
+19 CAPITAL EXPENDITURE
+20 Capital Expenditure (MDAs and Others) 11,214.82 2,803.71 450.13 1,849.55 1,953.43 1,561.30 5,814.41 3,246.27 -1,242.40 (44.31) -392.13 (20.07) -5,400.41 (48.15) 2,568.14 79.11
+Capital Dev. Fund (Main)-2024 in 2025 - - 2,231.45 2,231.45
+21 Capital Expenditure (GOEs) 820.91 205.23 35.74 35.74 35.74 247.77 354.99 573.13 42.55 20.73 212.03 593.27 -465.91 (56.76) -218.14 (38.06)
+22 Multi-lateral/Bilateral Project-Tied Loans 1,051.91 262.98 0.00 0.00 0.00 1,981.36 1,981.36 973.96 1,718.38 653.43 1,981.36 929.45 88.36 1,007.40 103.43
+23 Grants and Donor Funding 685.63 171.41 338.49 189.91 259.71 418.84 1,206.95 1,572.50 247.43 144.35 159.13 61.27 521.32 76.04 -365.55 (23.25)
+24 Total Capital Expenditure 13,773.28 3,443.32 824.36 2,075.20 2,248.88 6,440.73 11,589.17 6,365.86 2,997.41 87.05 4,191.85 186.40 -2,184.11 (15.86) 5,223.31 82.05
+25 TRANSFERS
+26 Statutory Transfers 1,742.79 435.70 435.70 435.70 435.70 435.70 1,742.79 1,034.67 0.00 0.00 0.00 0.00 0.01 0.00 708.12 68.44
+27 FGN EXPENDITURE (Excl. GEOs & Project-tied Loans) 32,123.10 8,030.77 5,190.06 7,820.43 7,177.03 10,632.87 30,820.37 19,868.61 2,602.09 32.40 3,455.84 48.15 -1,302.73 (4.06) 10,951.76 55.12
+28 AGGREGATE FGN EXPENDITURE 35,055.54 8,763.88 5,424.41 8,054.79 7,411.40 13,603.66 34,494.25 23,036.39 4,839.77 55.22 6,192.26 83.55 -561.29 (1.60) 11,457.86 49.74
+29 Fiscal Deficit (Excluding GEOs & Project-tied Loans) (9,178.94) (2,294.73) (1,837.66) (3,172.48) (1,328.77) (7,175.28) (13,514.19) (10,551.42) (4,880.54) 212.68 (5,846.51) 439.99 (4,335.25) 47.23 -2,962.77 28.08
+ ITEMS
+2024 APPROVED 
+BUDGET ACTUAL VARIANCE
+4th Quarter Actual 
+Vs Quarterly Budget
+4th Quarter Vs 3rd 
+Quarter (Actual)
+Actual Vs Budget 
+(Annual)
+2024 Vs 2023 
+(Actual)
+
+34
+3.10.3 Personnel and Overhead Cost
+The sum of ₦4,792.05 billion was appropriated for the Personnel Cost of 
+MDAs in the 2024 Budget. This translates to prorate quarterly expenditure 
+outlay of ₦1,198.01 billion in 2024. Actual expenditure of ₦4,792.05 billion 
+was spent in the period under consideration, representing (100.0 percent) of 
+projection for the year. A total of ₦671.15 billion was released as overhead 
+cost in the fiscal year which was ₦101.98 billion (13.98 percent) lower than 
+the budget projection of ₦773.13 billion. 
+3.10.4 Statutory Transfers
+A total of ₦435.70 billion was released as Statutory Transfers in the fourth 
+quarter of 2024 which equal the quarterly projection in the quarter under 
+review. It is important to note that quarterly releases under this subhead are 
+released to beneficiaries subject to budgetary provisions, needs and 
+availability of funds.
+3.10.5 Capital Expenditure Performance
+Greater amount of government’s financial resources continued to be directed 
+to structural reform of the economy and the provision of critical infrastructure 
+in the roads, power, housing, rail and aviation sectors as well as the provision 
+of physical and food security. In view of this, a total of ₦13,77 trillion was 
+allocated to capital spending in the 2024 Budget. 
+3.10.6 Capital Release
+The sum of ₦13.77 trillion was appropriated for the capital expenditure. This 
+translates to prorate quarterly expenditure outlay of ₦3.44 trillion in 2024. 
+Actual capital expenditure of ₦6.17 trillion was spent in the 2024 fiscal year. 
+The release of funds to MDAs for capital expenditure as at the fourth quarter 
+of 2024 was done in tranches based on availability of resources and 
+government priorities. Data from the OAGF on 2024 capital performance for 
+MDAs as at 31 st March, 2025 showed that a total of ₦4.00 trillion was 
+released to and cash-backed for MDAs’ 2024 capital projects and 
+programmes. The sum of ₦948.86 billion was released as First Tranche, 
+₦840.52 billion was released as Second Tranche, ₦1.08 trillion was released 
+as Third Tranche, ₦284.08 billion was released as Fourth Tranche, and 
+₦123.91 billion was released as Additional Fourth Tranche. A total of 
+₦722.82 billion was released as AIEs Service Wide. 
+
+35
+3.10.7 MDAs Capital Vote Utilization
+Available fiscal data revealed that ₦3.27 trillion (81.91 percent) of the total 
+amount released and cash-backed was utilized by MDAs as at 30 th June, 
+2025. Appendix 1 to this Report shows the funds released to the MDAs and 
+utilized during the period. A breakdown of the fifty-one (51) MDAs included 
+in the report of the Office of the Accountant General of the Federation 
+(OAGF) indicates different levels of utilization. Twenty-two (43.14 percent) 
+of the MDAs had utilized more than the overall average utilization rate of 
+52.50 percent of the amount cash-backed. Ten (19.61 percent) out of them 
+had above 80.0 percent utilization rate while ten (19.61 percent) had one 
+hundred percent utilization level. The utilization report also revealed that 
+seven (13.72 percent) of the MDAs had below 45.50 percent utilization rate 
+of their cash-backed funds and only two (3.92 percent) of the MDAs were yet 
+to commence the utilization of the funds released to them.
+Table 3.10: Capital Budget Utilization by MDAs (as at 30th June, 2025)
+Source: OAGF and BOF, 2024
+Utilization 
+As % of Annual 
+Capital 
+Appropriation
+Precentage of 
+Releases
+Presidency 82,922,332,768 47,073,506,951 47,073,506,951 34,043,472,420 41.05 72.32
+Federal Ministry of Works 987,289,797,899 727,828,449,066 727,828,449,066 626,926,106,279 63.50 86.14
+Federal Ministry of Housing & Urban Devt. 165,842,734,312 66,769,961,849 66,769,961,849 35,251,405,227 21.26 52.80
+Agriculture 886,652,814,701 695,050,842,156 695,050,842,156 606,581,139,528 68.41 87.27
+Water Resources 281,741,625,800 143,900,859,874 143,900,859,874 129,510,732,616 45.97 90.00
+Education 480,781,350,182 169,118,676,179 169,118,676,179 113,172,877,786 23.54 66.92
+Youth Development (Sport) 21,624,361,733 10,010,174,937 10,010,174,937 9,071,319,199 41.95 90.62
+Transport 91,175,298,776 51,035,244,075 51,035,244,075 50,403,884,464 55.28 98.76
+Health 543,399,337,824 197,708,296,132 197,708,296,132 174,979,892,048 32.20 88.50
+Science &Technology 309,355,735,374 188,141,625,107 188,141,625,107 161,990,595,817 52.36 86.10
+Labour & Productivity 90,693,241,499 41,987,748,216 41,987,748,216 40,107,678,856 44.22 95.52
+Defence 339,286,557,299 386,378,263,298 386,378,263,298 384,925,502,140 113.45 99.62
+Youth Development 14,417,024,381 10,010,174,937 10,010,174,937 3,609,656,526 25.04 36.06
+Police Affairs 100,529,422,251 76,461,367,773 76,461,367,773 54,458,280,955 54.17 71.22
+Interior 109,120,117,161 32,205,737,900 32,205,737,900 27,032,362,333 24.77 83.94
+ONSA 72,524,514,240 228,156,871,270 228,156,871,270 228,156,726,250 314.59 100.00
+Capital Supplementation 1,872,952,130,357 341,911,251,308 341,911,251,308 341,911,251,308 18.26 100.00
+Total Average Utilization by All MDAs (Inclusive 
+of Capital Supplementation) 8,493,664,163,085 3,998,590,332,378 3,998,590,332,378 3,275,313,763,463 38.56 81.91
+MDA Annual 
+Appropriation 
+Total Amount 
+Released 
+Total Amount 
+Cash Backed 
+Utilization
+
+36
+Figure 3.6: Pictorial Representation of Selected MDAs Capital Utilization
+Source: OAGF and BOF, 2024
+3.10.8 Budget Deficit and Performance of the Financing Items
+In the 2024 Fiscal Framework, quarterly fiscal deficit is estimated at ₦2,29 
+trillion (exclusive of GOEs and Multi-lateral/Bi-lateral Project-tied Loan of 
+₦262.98 billion). The quarterly deficit is expected to be financed through 
+Multi-lateral/Bilateral Project-tied Loan, Domestic/Foreign Borrowing and 
+Budget Support.
+The inflow and outflow of funds resulted in ₦7.17 trillion deficit in the fourth 
+quarter of 2024. This was ₦4.88 trillion (212.68 percent) above the prorate 
+projected budget deficit for the quarter. 
+Overall, a total of ₦13.51 trillion deficit was recorded in 2024, representing a 
+budget to GDP ratio of 3.62 percent which is above the target rate of 3.0 
+percent as stipulated in the FRA 2007. The deficit was financed through 
+₦1.98 trillion Multi-lateral/Bilateral Project-tied Loan, ₦6.06 trillion Domestic 
+Borrowing, ₦3.37 trillion Foreign Borrowing and ₦3.19 trillion Budget 
+Support.
+
+
+37
+Budget Deficit Financing
+Source: BOF and OAGF, 2024
+2024
+Budget
+Actual
+ (Jan - Dec) Variance
+Billions of
+Naira
+AGGREGATE FEDERAL GOVERNMENT 
+REVENUE 25,876.61 20,980.07 (4,896.54)
+AGGREGATE FGN EXPENDITURE 35,055.54 34,494.25 (561.29)
+FISCAL BALANCE (FINANCING) (9,178.93) (13,514.18) (4,335.25)
+Privatisation Proceeds 298.49 0.00 (298.49)
+Multi-lateral / Bilateral Project-tied Loans 1,051.91 1,981.36 929.45 
+New Borrowings 7,828.53 12,619.29 4,790.76 
+Domestic Borrow ing 6,060.92 6,060.92 0.00 
+Foreign Borrow ing 1,767.61 3,371.87 1,604.26 
+Budget Support 3,186.50 3,186.50 
+Pool Funding for Extended 2024 Budget 1,086.47
+FISCAL ITEMS
+Billions of Naira
+
+38
+4.0 CONCLUSION
+The macroeconomic environment in the review period was redefined by the 
+increasing level of uncertainties confronting the recovery of the global 
+economy. The economy expanded by 3.84 percent in the fourth quarter of 
+2024 with the oil sector contributed 4.60 percent (year-on-year) in real terms 
+while the non-oil sector recorded a real growth of 3.96 percent. The non-oil 
+sector contributed significantly to the growth, mainly driven by Information 
+and Communication (Telecommunication); Financial and Insurance 
+(Financial Institutions); Trade; Agriculture (Crop production); Manufacturing 
+(Food, Beverage and Tobacco) and Construction (Real Estate). 
+The Federal Government continued to meet its non-discretionary 
+expenditure requirements even as the budget implementation continued to 
+be affected by lower-than-projected revenue outcomes. The performance of 
+the economy during the quarter was however inspiring considering 
+developments in the global economy and the performance of other 
+economies. Nevertheless, it is important to fast-track efforts towards 
+enhancing economic growth and revenue performance. 
+Improving revenue collections in the near-term is vital to the successful 
+ensuring fiscal sustainability and effective execution of medium-ter, Budgets. 
+Efforts to curtail the growth in recurrent expenditure and particularly 
+personnel and debt related expenditure in 2025 and beyond is critical even 
+as effective implementation of measures to address the security challenges 
+continue to be a priority. 
+The Federal Government remain steadfast in its commitment to improved 
+openness, transparency and accountability in budget preparation, 
+implementation, monitoring, evaluation and feedback. In view of this, strict 
+observance of budget implementation guidelines and the governance 
+framework on monitoring of capital budget implementation will continue to be 
+followed. Efforts would also be geared towards promoting efficiency in 
+budget implementation, while guaranteeing effective project management in 
+subsequent budgets. 
+
+39
+MINISTRY MINISTRY, DEPARTMENT, AGENCY APPROPRIATION 
+=N=
+1ST 
+TRANCHE 
+=N=
+ AIE SERVICE 
+WIDE 
+=N= 
+TOTAL RELEASES 
+(WITH OUT S/W) 
+= N=
+TOTAL RELEASES 
+= N=
+CASHBACKED 
+=N=
+MDAs BALANCE 
+@ 30TH JUNE, 2025 
+=N=
+UTILISATION 
+=N= 
+APPROPRIATION 
+%
+UTILISATION 
+%
+CASHBACK 
+% 
+PRESIDENCY SUB TOTAL 82,922,332,768 26,729,224,276 - 47,073,506,951 47,073,506,951 47,073,506,951 13,030,034,531 34,043,472,420 41.05 72.32 72.32 SECRETARY TO 
+GOVT. OF THE 
+FEDERATION (SGF) SUB TOTAL 94,862,798,242 5,221,637,069 - 51,348,379,768 51,348,379,768 51,348,379,768 7,191,493,163 44,156,886,605 46.55 85.99 85.99 
+FEDERAL MINISTRY 
+OF SPECIAL DUTIES 
+SGF SUB TOTAL 10,871,586,503 602,725,988 100,000,000 3,626,816,342.00 3,726,816,342.00 3,726,816,342.00 778,922,579.75 2,947,893,762.25 86.55 79.10 79.10 
+YOUTH 
+DEVELOPMENT SUB TOTAL 14,417,024,381 2,249,367,937 - 3,821,367,778 3,821,367,778 3,821,367,778 211,711,252 3,609,656,526 25.04 94.46 94.46 
+YOUTH 
+DEVELOPMENT SUB TOTAL 21,624,361,733 2,376,456,652 625,000,000 9,385,174,937 10,010,174,937 10,010,174,937 938,855,738 9,071,319,199 41.95 90.62 90.62 
+WOMEN AFFAIRS SUB TOTAL 12,055,872,257 2,019,239,735 850,000,000 7,691,564,782 8,541,564,782 8,541,564,782 2,292,075,428 6,249,489,354 51.84 73.17 73.17 
+AGRICULTURE SUB TOTAL 886,652,814,701 142,594,787,110 2,328,470,650 692,722,371,506 695,050,842,156 695,050,842,156 88,469,702,628 606,581,139,528 68.41 87.27 87.27 
+ WATER RESOURCES SUB TOTAL 281,741,625,800 20,291,984,229 2,200,000,000 141,700,859,874 143,900,859,874 143,900,859,874 14,390,127,258 129,510,732,616 45.97 90.00 90.00 
+AUDITOR-GEN. SUB TOTAL - - 300,000,000 - 300,000,000 300,000,000 300,000,000 - - 
+DEFENCE SUB TOTAL 339,286,557,299 216,162,254,617 - 386,378,263,298 386,378,263,298 386,378,263,298 1,452,761,158 384,925,502,140 113.45 99.62 99.62 
+ICPC SUB TOTAL 728,119,065 224,237,049 - 224,237,049 224,237,049 224,237,049 1 224,237,048 30.80 - 
+EDUCATION SUB TOTAL 480,781,350,182 70,674,637,708 6,964,717,349 162,153,958,830.35 169,118,676,179 169,118,676,179 55,945,798,393.26 113,172,877,786 23.54 66.92 66.92 FEDERAL CAPITAL 
+TERRITORY 
+ADMINISTRATION
+FEDERAL CAPITAL TERRITORY 
+ADMINISTRATION 65,262,626,636 11,609,746,531 17,109,746,531.00 17,109,746,531 17,109,746,531 17,109,746,531.00 - - - - 
+FCTA SUB TOTAL 65,262,626,636 11,609,746,531 - 17,109,746,531.00 17,109,746,531 17,109,746,531 17,109,746,531.00 - - - - 
+FOREIGN & INTER 
+GOVT. AFFAIRS SUB TOTAL 19,611,623,255 13,463,257,381 1,004,500,000 16,004,846,893.30 17,009,346,893 17,009,346,893 2,499,138,769.37 14,510,208,124 73.99 85.31 85.31 
+FINANCE SUB TOTAL 817,020,034,775 1,220,127,508 134,241,362,039 5,352,916,564.00 139,594,278,603 139,594,278,603 122,081,335,585.97 17,512,943,017 2.14 12.55 12.55 
+FINANCE SUB TOTAL 37,733,134,746 7,142,460,231 38,500,000,000 25,682,334,152.81 64,182,334,153 64,182,334,153 47,835,570,113.87 16,346,764,039 43.32 25.47 25.47 
+HEALTH SUB TOTAL 543,399,337,824 53,292,129,231 11,765,201,600 185,943,094,532.30 197,708,296,132 197,708,296,132 22,728,404,084 174,979,892,048 32.20 88.50 88.50 
+ TRADE & 
+INVESTMENT SUB TOTAL 166,112,809,809 3,744,060,827 500,000,000 41,624,391,985.00 42,124,391,985 42,124,391,985 14,677,813,439.55 27,446,578,545 16.52 65.16 65.16 
+INFORMATION SUB TOTAL 7,525,079,920 2,021,773,969 - 4,056,373,100.20 4,056,373,100 4,056,373,100 533,115,929 3,523,257,172 46.82 86.86 86.86 
+CULTURE SUB TOTAL 10,973,055,038 1,006,551,399 750,000,000 2,212,035,542.50 2,962,035,543 2,962,035,543 344,782,020 2,617,253,522 23.85 88.36 88.36 
+TOURISM 
+NATIONAL INSTITUTE FOR HOSPITALITY 
+AND TOURISM (NIHOTOURS) 8,665,060,672 1,349,093,150 5,816,906,970.00 5,816,906,970 5,816,906,970 933,974,588 4,882,932,382 56.35 83.94 83.94 
+CULTURE SUB TOTAL 14,910,214,281 1,460,406,060 625,000,000 6,708,190,177 7,333,190,177 7,333,190,177 1,115,302,838 6,217,887,339 41.70 84.79 84.79 
+OFFICE OF THE ACCOUNTANT GENERAL OF THE FEDERATION
+FEDERAL MINISTRY OF FINANCE
+FUNDS DEPARTMENT, GARKI - ABUJA
+ 2024 CAPITAL PERFORMANCE REPORT FOR MINISTRIES DEPARTMENTS AND AGENCIES (MDAs) AS AT 30TH JUNE, 2025 
+
+40
+COMMUNICATION 
+TECHNOLOGY SUB TOTAL 8,183,167,670 1,835,012,138 - 2,862,493,161.20 2,862,493,161 2,862,493,161 2,128,930,661.65 733,562,500 8.96 25.63 25.63 
+INTERIOR SUB TOTAL 109,120,117,161 10,496,172,140 2,000,000,000 30,205,737,900.00 32,205,737,900 32,205,737,900 5,173,375,566.73 27,032,362,333 24.77 83.94 83.94 
+ POLICE AFFAIRS SUB TOTAL 100,529,422,251 18,729,890,140 - 76,461,367,773.00 76,461,367,773 76,461,367,773 22,003,086,817.60 54,458,280,955 44.87 71.22 71.22 
+HEAD OF SERVICE SUB TOTAL 3,720,480,731 997,568,038 84,000,000 1,860,472,525.00 1,944,472,525 1,944,472,525 58,124,504 1,886,348,021 50.70 97.01 97.01 
+JUSTICE SUB TOTAL 34,860,593,565 12,691,897,795 - 24,640,193,981.00 24,640,193,981 24,640,193,981 18,048,682,458 6,591,511,523 18.91 26.75 26.75 
+LABOUR & 
+PRODUCTIVITY SUB TOTAL 90,693,241,499 13,406,705,611 - 41,987,748,216.00 41,987,748,216 41,987,748,216 1,880,069,360 40,107,678,856 44.22 95.52 95.52 
+POWER SUB TOTAL 411,154,418,655 55,486,562,773 500,000,000 58,939,080,761.00 59,439,080,761 59,439,080,761 44,405,018,827 15,034,061,934 3.66 25.29 25.29 
+WORKS SUB TOTAL 987,289,797,899 106,899,864,032 10,000,000,000 717,828,449,066.00 727,828,449,066 727,828,449,066 100,902,342,787 626,926,106,279 63.50 86.14 86.14 
+HOUSING SUB TOTAL 165,842,734,312 6,998,071,076 - 66,769,961,849.00 66,769,961,849 66,769,961,849 31,518,556,622 35,251,405,227 21.26 52.80 52.80 
+SCIENCE AND TECH. SUB TOTAL 309,355,735,374 40,564,316,552 2,704,470,000 185,437,155,106.66 188,141,625,107 188,141,625,107 26,151,029,290 161,990,595,817 52.36 86.10 86.10 
+TRANSPORT SUB TOTAL 91,175,298,776 17,197,095,297 - 51,035,244,075.00 51,035,244,075 51,035,244,075 631,359,611 50,403,884,464 55.28 98.76 98.76 
+MINISTRY OF MARINE MARITIME ACADEMY OF NIGERIA, ORON 491,005,265 114,750,000 491,005,264.00 491,005,264 491,005,264 58,614,858 432,390,406 88.06 88.06 88.06 
+TRANSPORT SUB TOTAL 18,923,465,787 2,177,570,765 625,000,000 11,517,206,287.00 12,142,206,287 12,142,206,287 7,414,493,694 4,727,712,593 24.98 38.94 38.94 
+AVIATION SUB TOTAL 47,356,165,732 3,619,478,363 - 26,660,727,503.00 26,660,727,503 26,660,727,503 12,592,740,629 14,067,986,874 29.71 52.77 52.77 
+PETROLEUM SUB TOTAL 8,622,655,505 1,209,549,408 - 5,688,066,314.00 5,688,066,314 5,688,066,314 3,897,643,005 1,790,423,309 20.76 31.48 31.48 
+MINES & STEEL SUB TOTAL 13,579,907,776 639,740,199 45,084,903 3,322,039,872.00 3,367,124,775 3,367,124,775 26,608,995 3,340,515,780 24.60 99.21 99.21 
+MINISTRY OF SOLID 
+MINERALS 
+NIGERIAN INSTITUTE OF MINING AND 
+GEOSCIENCES 1,703,336,442 472,537,704 1,540,030,012.00 1,540,030,012 1,540,030,012 382,565,066 1,157,464,946 67.95 75.16 
+MINES & STEEL SUB TOTAL 26,911,766,878 1,982,822,948 - 6,149,275,677.00 6,149,275,677 6,149,275,677 410,743,219 5,738,532,458 21.32 93.32 93.32 
+NATIONAL WAGES & 
+SALARIES
+NATIONAL SALARIES, INCOMES AND 
+WAGES COMMISSION 172,922,510 11,222,000 334,257,272.00 334,257,272 334,257,272 0.00 334,257,272 193.30 100.00 100.00 
+NATIONAL WAGES & 
+SALARIES SUB TOTAL 172,922,510 11,222,000 - 334,257,272.00 334,257,272 334,257,272 0 334,257,272 193.30 100.00 100.00 
+ENVIRONMENT SUB TOTAL 78,324,990,092 7,080,703,111 1,800,000,000 10,130,607,462.50 11,930,607,463 11,930,607,463 3,077,081,342 8,853,526,121 11.30 74.21 74.21 
+OFFICE OF NATIONAL 
+SECURITY ADVISER SUB TOTAL 72,524,514,240 52,770,182,761 162,000,000,000 66,156,871,270.00 228,156,871,270 228,156,871,270 145,020 228,156,726,250 314.59 100.00 100.00 
+NIGER DELTA SUB TOTAL 20,126,640,862 617,508,719 - 2,057,739,106.00 2,057,739,106 2,057,739,106 679,307 2,057,059,799 10.22 99.97 99.97 
+FISCAL 
+RESPONSIBILITY 
+COMMISSION SUB TOTAL 644,450,658 60,689,750 - 240,801,166.00 240,801,166 240,801,166 64,557,626 176,243,541 27.35 73.19 73.19 
+ICRC SUB TOTAL 281,849,663 9,996,000 - 281,849,633.00 281,849,633 281,849,633 639,915 281,209,718 99.77 99.77 99.77 
+NAT. POPULATION SUB TOTAL 1,127,902,865 217,029,313 - 614,870,273.00 614,870,273 614,870,273 12,852 614,857,421 54.51 100.00 100.00 
+CODE OF CONDUCT 
+BUREAU SUB TOTAL 172,757,543 169,700,286 - 199,700,286.00 199,700,286 199,700,286 0 199,700,286 115.60 100.00 100.00 
+CODE OF CONDUCT 
+TRIBUNAL SUB TOTAL 151,342,533 121,091,963 - 121,091,963.00 121,091,963 121,091,963 0 121,091,963 80.01 100.00 100.00 
+PUBLIC COMPLAINTS 
+COMMISSION SUB TOTAL 0 - 500,000,000 0.00 500,000,000 500,000,000 2,397,557 497,602,443 99.52 99.52 
+REV. MOB. ALL. SUB TOTAL 206,070,005 103,035,002 - 206,070,004.00 206,070,004 206,070,004 16 206,069,988 100.00 100.00 100.00 
+FCSC SUB TOTAL 215,087,327 193,724,634 500,000,000 193,724,634.00 693,724,634 693,724,634 0.00 693,724,634 322.53 
+POLICE SERVICE 
+COMMISSION SUB TOTAL 180,033,895 137,475,585 - 137,475,585.00 137,475,585 137,475,585 0.00 137,475,585 76.36 
+FED. CHARACT. 
+COMM. SUB TOTAL 140,812,815 84,013,938 - 123,189,902.00 123,189,902 123,189,902 0.00 123,189,902 87.48 100.00 
+HUMANITARIAN 
+AFFAIRS, SUB TOTAL 125,541,543,215 8,245,208,850 - 72,782,375,311.60 72,782,375,312 72,782,375,312 28,961,557,794 43,820,817,518 34.91 60.21 60.21 
+CAPITAL 
+SUPPLEMENTATION SUB TOTAL 4,296,727,651,266 - 341,911,251,308 341,911,251,308 341,911,251,308 0.00 341,911,251,308 100.00 100.00 100.00 
+GRAND TOTAL GRAND TOTAL 12,387,771,863,634 948,860,964,692 723,424,057,849 3,275,766,274,528 3,999,190,332,378 3,999,190,332,378 723,276,568,914.24 3,275,913,763,463 32.28 81.91 81.91 
+
+41
+MINISTRY MDA BUDGET JANUARY 
+=N=
+FEBRUARY 
+=N=
+ MARCH 
+=N=
+ APRIL 
+=N=
+ MAY 
+=N=
+ JUNE 
+=N=
+ JULY 
+=N=
+ AUGUST 
+=N=
+ SEPTEMBER 
+=N=
+ OCTOBER 
+=N=
+ NOVEMBER 
+=N=
+ DECEMBER 
+=N=
+ TOTAL RELEASES 
+=N= 
+I Sub-Total Presidency 46,224,106,615.14 7,623,394,875.00 1,966,315,889.00 1,966,315,889.00 3,852,008,884.51 5,737,701,880.02 1,966,315,889.00 3,852,008,884.51 3,852,008,882.00 1,873,250,313.25 3,758,943,308.76 5,644,636,304.27 1,873,249,769.75 43,966,150,769.07
+II Sub-Total Defence 135,542,547,129.59 19,785,910,652.24 10,700,998,029.24 10,700,998,029.24 10,649,136,975.91 9,956,794,633.91 9,761,145,888.91 12,879,933,935.91 9,761,145,888.91 9,761,145,888.91 9,761,145,888.91 9,761,145,888.91 9,761,145,878.00 133,240,647,579.00
+III Sub-Total FOREIGN AFFAIR 40,688,162,054.02 17,395,981,281.57 589,619,952.57 589,619,952.57 589,619,952.57 589,619,952.57 589,619,952.57 17,395,981,146.57 589,619,952.57 589,619,952.57 589,619,952.57 589,619,952.49 589,619,952.24 40,688,161,953.43
+IV Sub-Total INFORMATION AND 
+NATIONAL ORIENTATION 6,276,611,705.00 523,050,975.42 523,050,975.42 523,050,975.42 523,050,975.42 523,050,975.42 523,050,975.42 523,050,975.42 523,050,975.42 523,050,975.42 523,050,975.42 523,050,975.42 523,050,660.42 6,276,611,390.04
+V Sub-Total INTERIOR 41,220,945,357.01 3,435,078,779.51 3,435,078,779.51 3,435,078,779.51 3,435,078,779.50 3,435,078,779.50 3,435,078,779.50 3,435,078,779.50 3,435,078,779.50 3,435,078,779.50 3,435,078,779.50 3,435,078,779.50 1,718,438,278.00 39,504,304,852.53
+VI Sub-Total OHCSF 4,306,392,712.00 358,866,059.33 358,866,059.33 358,866,059.33 358,866,059.33 358,866,059.33 358,866,059.33 358,866,059.33 358,866,059.33 358,866,059.33 358,866,059.33 358,866,059.33 358,866,057.92 4,306,392,710.55
+VII Sub-Total OuAGF 2,641,865,571.00 220,155,464.25 220,155,464.25 220,155,464.25 220,155,464.25 220,155,464.25 220,155,464.25 220,155,464.25 220,155,464.25 220,155,464.25 220,155,464.25 220,155,464.00 220,155,464.00 2,641,865,570.50
+VIII Sub-Total FCSC 729,571,001.00 60,797,583.42 60,797,583.42 60,797,583.42 60,797,583.42 60,797,583.42 60,797,583.42 60,797,583.42 60,797,583.42 60,797,583.42 60,797,583.42 60,797,583.42 60,797,583.00 729,571,000.62
+IX Sub-Total FEDERAL CHARACTER 
+COMMISSION 629,281,413.00 52,440,117.92 52,440,117.92 52,440,117.92 52,440,117.92 52,440,117.92 52,440,117.92 52,440,117.92 52,440,117.92 52,440,117.92 52,440,117.92 52,440,117.92 52,440,115.00 629,281,412.12
+X Sub-Total POLICE AFFAIRS 62,398,783,306.00 5,199,898,608.50 5,199,898,608.50 5,199,898,608.50 5,199,898,608.50 5,199,898,608.50 5,199,898,608.50 5,199,898,608.50 5,199,898,608.50 5,199,898,608.50 5,199,898,608.50 5,199,898,608.50 5,199,898,608.00 62,398,783,301.50
+XI Sub-Total COMMUNICATIONS 
+& DIGITAL ECONOMY HQTRS 698,579,627.00 58,214,968.91 58,214,968.91 58,214,968.91 58,214,968.91 58,214,968.91 58,214,968.91 58,214,968.91 58,214,968.91 58,214,968.91 58,214,968.91 58,214,968.91 58,214,968.00 698,579,626.01
+XII Sub-Total ONSA 50,198,504,671.00 4,183,208,722.33 4,183,208,722.33 4,183,208,722.33 2,913,344,780.33 4,183,208,722.33 2,913,344,780.33 2,913,344,780.33 6,722,936,606.33 2,913,344,780.33 2,913,344,780.33 2,913,344,780.33 2,913,344,778.25 43,849,184,955.88
+XIII Sub-Total CODE OF CONDUCT 
+TRIBUNAL 348,304,951.00 29,025,412.58 29,025,412.58 29,025,412.58 29,025,412.58 29,025,412.58 29,025,412.58 29,025,412.58 29,025,412.58 29,025,412.58 29,025,412.58 29,025,412.58 29,025,412.58 348,304,950.96
+XIV
+Sub-Total INFRASTRUCTURE 
+CONCESSION REGULATORY 
+COMMISSION
+288,449,561.00 24,037,463.42 24,037,463.42 24,037,463.42 24,037,463.42 24,037,463.42 24,037,463.42 24,037,463.42 24,037,463.42 24,037,463.42 24,037,463.42 24,037,463.42 24,037,463.42 288,449,561.04
+XV Sub-Total POLICE SERVICE 
+COMMISSION 281,423,575.00 23,451,964.58 23,451,964.58 23,451,964.58 23,451,964.58 23,451,964.58 23,451,964.58 23,451,964.58 23,451,964.58 23,451,964.58 23,451,964.58 23,451,964.58 23,451,964.00 281,423,574.38
+XVI Sub-Total OSGF 20,503,145,785.00 1,708,595,481.33 1,708,595,482.00 1,708,595,482.00 1,708,595,482.08 1,708,595,482.08 1,708,595,482.08 1,708,595,482.08 1,708,595,482.08 1,708,595,482.08 1,708,595,482.08 1,708,595,482.83 1,708,595,469.91 20,503,145,772.63
+XVII Sub-Total SPECIAL DUTIES 1,837,479,868.96 153,123,322.33 153,123,322.33 153,123,322.33 153,123,322.33 153,123,322.33 153,123,322.33 153,123,322.33 153,123,322.33 153,123,322.33 153,123,322.33 153,123,322.33 153,123,222.33 1,837,479,767.96
+XVIII Sub-Total AGRICULTURE 8,142,441,254.04 679,370,105.01 679,370,105.01 679,370,105.01 679,370,105.01 679,370,105.01 679,370,105.01 679,370,105.01 679,370,105.01 679,370,105.01 679,370,105.01 679,370,105.01 679,370,057.00 8,152,441,212.11
+XIX Sub-Total FINANCE 6,615,459,994.57 551,288,333.04 551,288,333.04 551,288,333.04 551,288,333.04 551,288,333.04 551,288,333.04 551,288,333.04 551,288,333.04 551,288,333.04 551,288,333.04 551,288,333.04 551,288,331.00 6,615,459,994.44
+XX Sub-Total INDUSTRY, TRADE & 
+INVESTMENT 3,320,380,110.03 421,375,409.59 331,096,262.43 226,929,595.76 226,929,595.76 226,929,595.76 226,929,595.76 525,542,075.76 226,929,595.76 226,929,595.76 226,929,595.76 226,929,595.76 226,929,593.92 3,320,380,107.78
+XXI Sub-Total LABOUR 2,638,634,603.38 219,886,217.26 219,886,217.26 219,886,217.26 219,886,217.26 219,886,217.26 219,886,217.26 219,886,217.26 219,886,217.26 219,886,217.26 219,886,217.26 219,886,217.26 219,886,217.26 2,638,634,607.12
+XXII Sub-Total SCIENCE 5,229,398,075.02 415,922,062.17 435,783,173.09 435,783,173.09 435,783,173.09 435,783,173.09 435,783,173.09 435,783,173.09 435,783,173.09 435,783,173.09 435,783,173.09 435,783,173.09 435,783,159.00 5,209,536,952.07
+XXIII Sub-Total TRANSPORT 1,165,821,804.00 97,151,817.34 97,151,817.34 97,151,817.34 97,151,817.34 97,151,817.34 97,151,817.34 97,151,817.34 97,151,817.34 97,151,817.34 97,151,817.34 97,151,817.34 97,151,811.00 1,165,821,801.74
+ OFFICE OF THE ACCOUNTANT-GENERAL OF THE FEDERATION 
+ FEDERAL MINISTRY OF FINANCE 
+ FUNDS DEPARTMENT, GARKI-ABUJA. 
+Details of Overhead Cost Released to Ministries, Departments and Agencies from January to December, 2024 
+
+42
+XXIV Sub-Total AVIATION 1,631,371,174.00 135,947,598.05 135,947,598.05 135,947,598.05 135,947,598.05 135,947,598.05 135,947,598.05 135,947,598.05 135,947,598.05 135,947,598.05 135,947,598.05 135,947,598.05 135,947,594.00 1,631,371,172.55
+XXV Sub-Total POWER 2,624,569,399.00 218,714,116.67 218,714,116.67 218,714,116.67 218,714,116.67 218,714,116.67 218,714,116.67 218,714,116.67 218,714,116.67 218,714,116.67 218,714,116.67 218,714,116.67 218,714,110.00 2,624,569,393.37
+XXVI Sub-Total PETROLEUM 4,399,874,691.02 366,656,224.17 366,656,224.17 366,656,224.17 366,656,224.17 366,656,224.17 366,656,224.17 366,656,224.17 366,656,224.17 366,656,224.17 366,656,224.17 366,656,224.17 366,656,224.17 4,399,874,690.04
+XXVII Sub-Total STEEL DEV. 1,035,767,155.70 84,223,101.33 84,223,101.33 84,223,101.33 84,223,101.33 84,223,101.33 84,223,101.33 84,223,101.33 84,223,101.33 84,223,101.33 84,223,101.33 84,223,101.33 84,222,601.33 1,010,676,715.96
+XXVIII Sub-Total WORKS 22,695,326,552.00 1,891,277,212.67 1,891,277,212.67 1,891,277,212.67 1,891,277,212.67 1,891,277,212.67 1,891,277,212.67 1,891,277,212.67 1,891,277,212.67 1,891,277,212.67 1,891,277,212.67 1,891,277,212.67 1,891,277,212.00 22,695,326,551.37
+XXIX Sub-Total BUDGET & ECONOMIC 
+PLANNING 4,747,327,162.00 395,610,596.25 395,610,596.25 395,610,596.25 395,610,596.25 395,610,596.25 395,610,596.25 395,610,596.25 294,669,812.25 294,669,812.25 597,492,164.25 294,669,812.25 294,669,811.00 4,545,445,585.75
+XXX
+Sub-Total NATIONAL SALARIES, 
+INCOMES & WAGES 
+COMMISSISON
+258,272,601.00 21,522,716.75 21,522,716.75 21,522,716.75 21,522,716.75 21,522,716.75 21,522,716.75 21,522,716.75 21,522,716.75 21,522,716.75 21,522,716.75 21,522,716.75 21,522,716.75 258,272,601.00
+Revenue REVENUE MOBILIZATION, 744,025,988.00 62,002,165.67 62,002,165.67 62,002,165.67 62,002,165.67 62,002,165.67 62,002,165.67 62,002,165.67 62,002,165.67 62,002,165.67 62,002,165.67 62,002,165.67 62,002,165.67 744,025,988.04
+XXXI
+Sub-Total REVENUE 
+MOBILIZATION ALLOCATION & 
+FISCAL COMMISSION
+744,025,988.00 62,002,165.67 62,002,165.67 62,002,165.67 62,002,165.67 62,002,165.67 62,002,165.67 62,002,165.67 62,002,165.67 62,002,165.67 62,002,165.67 62,002,165.67 62,002,165.67 744,025,988.04
+XXXII Sub-Total FISCAL 
+RESPONSIBILITY COMMISSION 515,152,803.00 42,929,400.25 42,929,400.25 42,929,400.25 42,929,400.25 42,929,400.25 42,929,400.25 42,929,400.25 42,929,400.25 42,929,400.25 42,929,400.25 42,929,400.25 42,929,400.00 515,152,802.75
+XXXIII Sub-Total WATER 1,858,395,467.00 154,866,288.91 154,866,288.91 154,866,288.91 154,866,288.91 154,866,288.91 154,866,288.91 154,866,288.91 154,866,288.91 154,866,288.91 154,866,288.91 154,866,288.91 154,865,683.83 1,858,394,861.84
+XXXIV Sub-Total HOUSING & URBAN 
+DEVELOPMENT 682,686,111.00 56,890,509.25 56,890,509.25 56,890,509.25 56,890,509.25 56,890,509.25 56,890,509.25 56,890,509.25 56,890,509.25 56,890,509.25 56,890,509.25 56,890,509.25 56,890,508.00 682,686,109.75
+XXXV Sub-Total Marine & Blue 
+Economy 299,465,367.00 24,955,447.25 24,955,447.25 24,955,447.25 24,955,447.25 24,955,447.25 24,955,447.25 24,955,447.25 24,955,447.25 24,955,447.25 24,955,447.25 24,955,447.25 24,955,446.00 299,465,365.75
+XXXVI Sub-Total Tourism 1,044,952,208.00 87,079,350.66 87,079,350.66 87,079,350.66 87,079,350.66 87,079,350.66 87,079,350.66 87,079,350.66 87,079,350.66 87,079,350.66 87,079,350.66 87,079,350.66 87,079,202.66 1,044,952,059.92
+XXXVII Sub-Total ARTS & CULTURE 2,469,604,661.43 205,800,388.58 205,800,388.58 205,800,388.58 205,800,388.58 205,800,388.58 205,800,388.58 205,800,388.58 205,800,388.58 205,800,388.58 205,800,388.58 205,800,388.58 205,799,288.58 2,469,603,562.96
+XXXVIII Sub-Total Solid Minerals 1,676,225,559.00 139,685,463.25 139,685,463.25 139,685,463.25 139,685,463.25 139,685,463.25 139,685,463.25 139,685,463.25 139,685,463.25 139,685,463.25 139,685,463.25 139,685,463.25 139,685,463.25 1,676,225,559.00
+XXXIX Sub-Total JUSTICE 13,100,468,168.96 1,091,705,680.67 1,091,705,680.67 1,091,705,680.67 1,091,705,680.67 1,091,705,680.67 1,091,705,680.67 1,091,705,680.67 1,091,705,680.67 1,091,705,680.67 1,091,705,680.67 1,091,705,680.67 1,091,705,295.67 13,100,467,783.04
+XL Sub-Total ICPC 2,663,731,888.00 221,977,657.33 221,977,657.33 221,977,657.33 221,977,657.33 221,977,657.33 221,977,657.33 221,977,657.33 221,977,657.33 221,977,657.33 221,977,657.33 221,977,657.33 221,977,657.00 2,663,731,887.63
+XLI Sub-Total CCB 579,993,265.00 48,332,772.08 48,332,772.08 48,332,772.08 48,332,772.08 48,332,772.08 48,332,772.08 48,332,772.08 48,332,772.08 48,332,772.08 48,332,772.08 48,332,772.08 48,332,772.00 579,993,264.88
+XLII Sub-Total NIGER DELTA 1,167,783,281.00 97,315,273.42 97,315,273.42 97,315,273.42 97,315,273.42 97,315,273.42 97,315,273.42 97,315,273.42 97,315,273.42 97,315,273.42 97,315,273.42 97,315,273.42 97,315,273.00 1,167,783,280.62
+XLIII Sub-Total YOUTH & SPORT 7,999,058,127.00 666,588,177.26 666,588,177.26 666,588,177.26 666,588,177.26 181,957,888.92 666,588,177.26 666,588,177.26 198,440,418.84 195,627,282.51 133,625,116.84 133,625,116.84 133,625,116.00 4,976,430,003.51
+XLIV Sub-Total WOMEN AFFAIR 796,715,294.00 66,392,941.17 66,392,941.17 66,392,941.17 66,392,941.17 66,392,941.17 66,392,941.17 66,392,941.17 66,392,941.17 66,392,941.17 66,392,941.17 66,392,941.17 66,392,841.17 796,715,194.04
+XLV Sub-Total EDUCATION 72,124,230,496.50 6,150,547,773.31 5,982,313,498.12 5,982,313,498.12 5,982,313,498.12 5,982,313,498.12 5,982,313,498.12 6,150,547,774.12 5,982,313,498.12 5,982,313,498.12 5,982,313,498.12 5,982,313,498.12 5,982,305,587.29 72,124,222,617.80
+XLVI Sub-Total HEALTH 21,756,304,838.08 1,813,025,403.90 1,813,025,403.90 1,813,025,403.90 1,813,025,403.90 1,813,025,403.90 1,813,025,403.90 1,813,025,403.90 1,813,025,403.90 1,813,025,403.90 1,813,025,403.90 1,813,025,403.90 1,813,025,267.00 21,756,304,709.90
+XLVII Sub-Total ENVIRONMENT 3,784,883,217.02 315,406,934.91 315,406,934.91 315,406,934.91 315,406,934.91 315,406,934.91 315,406,934.91 315,406,934.91 315,406,934.91 315,406,934.91 315,406,934.43 315,406,934.91 315,406,917.99 3,784,883,201.52
+XLVIII Sub-Total NPC 818,928,272.00 68,244,022.47 68,244,022.47 68,244,022.47 68,244,022.47 68,244,022.47 68,244,022.47 68,244,022.67 68,244,022.67 68,244,022.67 68,244,022.67 68,244,022.67 68,244,022.67 818,928,270.84
+XLIX Sub-Total HUMANITARIAN 
+AFFAIRS 3,352,301,950.53 280,678,405.59 280,678,405.59 280,678,405.59 280,678,405.59 280,678,405.59 280,678,405.59 280,678,405.59 280,678,405.59 280,678,405.59 280,678,405.59 280,678,405.59 264,838,886.59 3,352,301,348.08
+XLX Sub-Total YOUTH 36,960,236,685.96 3,080,019,723.84 3,080,019,723.83 3,080,019,723.83 3,080,019,723.83 3,080,019,723.83 3,080,019,723.83 3,080,019,723.83 1,855,700,495.54 462,024,453.42 462,024,453.42 462,024,453.42 462,024,453.42 25,263,936,376.04
+GRAND- TOTAL 645,571,501,872.92 81,008,621,022.71 49,221,615,773.94 49,117,449,107.27 49,681,417,107.52 51,660,001,414.69 46,907,733,025.01 69,185,422,017.72 50,809,610,073.50 43,624,770,500.30 45,751,283,681.66 47,334,154,326.07 41,830,276,331.04 626,132,354,381.43
+
+43
+S/N MINISTRY MDA BUDGET JANUARY 
+=N=
+FEBRUARY 
+=N=
+MARCH 
+=N=
+ APRIL 
+=N=
+MAY 
+=N=
+JUNE 
+=N=
+JULY 
+=N=
+AUGUST 
+=N=
+SEPTEMBER 
+=N=
+OCTOBER 
+=N=
+NOVEMBER 
+=N=
+DECEMBER 
+=N=
+ACTUAL 
+=N=
+VARIANCE 
+=N=
+PERFORMANCE 
+%
+1 Presidency Sub- Total 51,689,215,283.89 3,634,516,035.84 4,031,353,869.93 3,845,008,210.60 3,856,934,563.88 3,984,115,152.01 3,890,805,652.26 3,909,775,015.35 3,885,923,792.02 3,917,703,833.69 4,920,376,865.45 3,974,180,779.30 7,245,560,139.11 51,096,253,909.44 431,830,358.69 99
+2 Defence Sub- Total 1,172,211,137,080.55104,208,745,820.86 94,546,698,973.94 94,744,666,235.36 94,679,884,277.50 95,018,241,929.87 94,979,073,075.86104,402,799,756.76 95,182,688,124.97 105,501,932,389.50 109,616,111,697.05 128,898,701,743.03 50,200,474,344.76 1,171,980,018,369.46 231,118,711.09 100
+3 Foreign Affairs Sub- Total 99,767,573,303.08 43,201,782,889.65 1,229,234,679.49 1,242,212,441.92 1,245,284,711.61 1,238,384,982.48 1,238,411,653.13 43,206,046,765.54 1,227,972,150.69 1,427,898,248.59 1,732,690,696.38 1,685,720,922.05 1,021,547,719.60 99,697,187,861.13 70,385,441.95 100
+4 Information Sub- Total 41,118,674,394.73 3,661,369,431.43 3,672,981,348.06 3,708,761,910.87 3,791,099,591.82 3,706,617,056.65 3,744,424,229.68 3,748,048,517.67 3,755,786,302.12 4,991,802,305.93 4,098,627,034.90 2,139,156,516.00 100,000,009.88 41,118,674,255.01 139.72 100
+5 Interior Sub- Total 321,330,667,792.00 31,741,597,917.81 19,605,553,783.65 26,148,073,636.90 26,219,227,945.83 32,351,518,943.08 26,445,371,002.35 38,263,196,478.79 26,433,839,101.02 30,727,652,844.61 30,716,726,369.10 32,677,909,767.41 0.00 321,330,667,790.55 1.45 100
+6 OHCSF Sub- Total 5,458,571,410.97 433,848,473.37 441,066,664.48 452,250,899.59 445,653,359.40 433,573,621.52 426,728,816.92 418,971,208.70 430,325,224.86 602,613,750.17 805,106,542.27 476,225,184.55 84,641,478.31 5,451,005,224.14 7,566,186.83 100
+7 Auditor-General Sub- Total 5,292,120,017.60 308,271,345.45 302,670,175.46 305,280,225.09 299,356,843.94 299,548,637.76 293,290,848.88 341,931,978.96 378,308,182.01 395,681,809.91 542,624,171.67 552,865,340.74 661,207,111.41 4,681,036,671.28 611,083,346.32 88
+8
+Federal Civil Service 
+Commission Sub-Total 820,619,025.38 59,861,871.12 46,731,703.70 50,967,944.57 79,124,824.98 59,875,142.90 378,737,866.64 55,819,171.18 57,448,221.81 73,645,790.78 97,157,703.67 98,227,818.40 66,657,335.98 1,124,255,395.73 -303,636,370.35 137
+9
+Federal Character 
+Comission Sub-Total 3,530,084,970.00 288,677,503.47 293,834,871.44 298,935,220.96 299,659,890.92 299,433,687.88 0.00 296,895,111.17 296,727,761.90 383,714,563.47 506,118,984.85 262,451,003.00 0.00 3,226,448,599.06 303,636,370.94 91
+10 Police Affairs Sub- Total 806,721,883,811.57 65,267,813,391.21 65,509,425,383.23 65,460,813,339.09 65,629,688,533.48 65,885,188,034.17 65,779,654,900.58 65,725,054,234.43 65,536,315,023.62 84,784,791,150.98 118,733,504,825.62 77,514,479,103.15 895,155,891.95 806,721,883,811.51 0.06 100
+11 Communication Sub- Total 20,246,509,593.51 1,741,832,231.28 1,736,887,714.07 1,530,018,088.52 1,524,096,915.14 1,518,799,178.07 1,505,328,709.41 1,494,898,809.31 1,487,527,870.76 2,166,819,477.20 2,959,029,952.12 2,475,173,687.00 0.00 20,140,412,632.88 106,096,960.63 99
+12 ONSA Sub- Total 149,564,968,934.95 12,463,747,411.07 12,463,747,411.07 12,463,747,411.07 12,463,747,411.07 12,463,747,411.07 12,463,747,411.07 12,463,747,411.07 12,463,747,411.07 12,463,747,411.07 12,463,747,411.07 12,463,747,411.07 12,463,747,410.33 149,358,601,341.77 206,367,593.18 100
+13 Code of conduct Tribunal Sub- Total 772,156,204.00 60,819,321.10 60,819,321.09 60,819,260.31 62,013,871.50 64,943,891.31 64,405,546.88 62,933,427.61 63,892,640.13 81,967,822.51 110,183,455.19 79,357,646.00 0.00 772,156,203.63 0.37 100
+14
+Infrastucture Concession 
+Regulatory commission Sub- Total 299,727,307.09 94,454,184.36 94,475,729.96 95,172,995.56 0.00 0.00 0.00 15,624,397.00 0.00 0.00 0.00 -6,934,915.69 0.00 292,792,391.19 6,934,915.90 98
+15 Police Service Commission Sub- Total 1,069,120,836.00 83,495,121.44 82,991,088.11 82,463,971.58 81,733,414.80 80,933,833.71 80,934,297.38 80,714,205.19 82,226,358.62 126,876,415.97 195,752,603.24 90,999,525.96 0.00 1,069,120,836.00 90,999,525.96 100
+16 OSGF Sub- Total 80,203,445,353.46 5,264,471,593.48 5,287,839,171.94 6,728,210,523.48 7,138,934,876.97 8,955,323,614.02 6,659,826,352.50 6,744,365,363.93 6,580,195,200.14 7,891,816,328.68 11,038,689,728.78 6,391,329,144.34 1,137,716,413.28 79,818,718,311.54 384,727,041.92 100
+17 SPECIAL DUTIES Sub- Total 4,951,674,343.82 359,113,929.50 364,261,997.14 375,013,117.77 367,884,727.46 370,758,174.34 371,022,760.90 379,975,601.93 367,177,424.85 522,801,187.35 748,466,389.56 604,259,416.39 99,829,528.10 4,930,564,255.29 21,110,088.53 100
+18 Agriculture & Rural Dev Sub- Total 102,095,837,608.13 6,441,959,788.56 6,500,787,845.36 7,590,550,025.25 7,616,717,198.91 8,801,661,510.73 7,678,397,184.53 7,601,632,919.75 7,661,551,755.63 9,224,063,743.60 11,602,840,673.44 10,079,286,056.37 6,068,453,583.71 96,867,902,285.84 5,227,935,322.29 95
+19
+Finance, Budget and 
+National Planning Sub- Total 20,952,258,902.00 1,019,722,950.41 1,017,209,560.32 1,038,752,502.60 5,045,412,920.95 1,058,327,039.59 1,038,433,536.96 1,044,271,533.74 1,024,831,002.81 1,343,490,627.04 1,856,770,932.96 4,930,574,503.37 273,913,557.99 20,691,710,668.74 260,548,233.26 99
+20 Trade & Investment Sub- Total 19,065,893,441.09 2,165,760,256.44 1,363,308,833.28 1,307,780,815.51 1,298,875,454.37 1,218,771,028.02 1,382,474,675.76 2,268,475,857.89 1,304,241,515.24 1,709,791,421.79 2,199,093,466.45 1,565,896,703.24 995,450,107.41 18,779,920,135.40 285,973,305.69 99
+OFFICE OF THE ACCOUNTANT-GENERAL OF THE FEDERATION
+FEDERAL MINISTRY OF FINANCE
+FUNDS DEPARTMENT, GARKI II, ABUJA
+DETAILS OF PERSONNEL COST RELEASE TO ALL MDAs FOR THE PERIOD JANUARY TO DECEMBER, 2024
+
+44
+21 Labour Sub- Total 16,547,715,619.65 1,261,069,285.20 1,253,583,225.07 1,305,593,538.17 1,274,399,966.77 1,273,887,785.21 1,272,054,832.40 1,282,286,219.23 1,298,278,306.96 1,847,300,321.39 2,524,543,157.55 1,408,194,891.07 499,627,738.54 16,500,819,267.56 46,896,352.09 100
+22
+SCIENCE AND 
+TECHNOLOGY Sub- Total 50,681,632,611.27 3,905,317,019.04 3,909,853,832.30 3,973,868,334.10 3,977,903,679.52 4,116,035,310.61 4,089,404,314.55 4,061,540,756.09 4,121,227,496.83 5,094,353,773.73 6,595,237,295.35 6,836,890,793.00 0.00 50,681,632,605.12 6.15 100
+23 Transport Sub- Total 17,717,200,725.00 1,374,471,705.56 1,377,455,953.01 1,395,256,205.55 1,381,137,524.51 1,380,889,374.65 1,401,160,453.45 1,401,465,566.14 1,388,351,119.62 2,159,080,534.95 2,691,027,376.07 474,382,099.57 336,143,892.57 16,760,821,805.65 956,378,919.35 95
+24 Aviation Sub- Total 8,244,959,395.52 619,705,020.94 618,303,534.68 672,400,440.99 669,815,355.37 668,463,263.21 781,957,953.47 669,877,882.36 663,213,871.04 689,081,560.38 789,456,202.93 653,178,984.87 536,891,242.05 8,032,345,312.29 212,614,083.23 97
+25 Power Sub- Total 4,593,553,927.01 425,100,920.50 426,059,765.89 427,445,693.21 417,903,361.27 407,262,643.04 263,984,966.48 215,951,105.28 263,479,411.71 321,367,624.93 351,325,956.28 333,604,729.31 287,378,826.94 4,140,865,004.84 452,688,922.17 90
+26 Petroleum Resource Sub- Total 33,900,801,460.52 1,463,588,639.09 1,451,623,536.97 14,402,100,096.26 1,649,185,233.90 1,459,328,209.04 1,463,739,388.57 3,157,285,634.71 1,687,151,819.19 1,666,978,778.78 2,737,469,418.74 1,575,626,080.76 1,120,002,783.20 33,834,079,619.21 66,721,841.31 100
+27
+Mines and Steel 
+Development Sub- Total 9,527,753,332.08 822,033,495.36 821,687,177.32 829,264,454.78 812,265,558.71 809,062,782.05 802,679,441.97 797,568,890.60 797,587,364.33 1,018,662,240.75 1,313,895,000.88 633,615,577.00 0.00 9,458,321,983.75 69,431,348.33 99
+28 Works and Housing Sub- Total 24,999,922,790.78 1,880,947,765.26 1,865,559,958.94 1,879,778,064.05 1,866,845,520.23 1,890,220,337.00 1,877,986,734.03 1,680,587,005.78 1,687,454,552.10 2,498,653,039.37 3,223,680,656.95 2,791,392,536.61 1,753,782,268.85 24,896,888,439.17 103,034,351.61 100
+29 Salaries & Wages Sub- Total 1,536,892,434.70 129,834,365.99 130,167,351.40 130,947,779.29 128,968,462.99 127,023,161.49 126,620,733.18 128,149,326.20 127,526,961.49 127,526,961.49 126,564,592.71 127,029,363.08 126,533,375.00 1,536,892,434.31 0.39 100
+30 RMAFC Sub- Total 2,318,268,421.86 212,261,944.81 211,734,774.49 224,580,265.98 217,492,806.40 215,926,558.34 215,173,530.94 196,495,777.39 195,292,101.67 266,656,399.15 339,920,914.13 22,733,348.00 0.00 2,318,268,421.30 0.56 100
+31
+Fiscal Responsibility 
+Commission Sub- Total 255,753,579.21 20,422,700.12 19,617,816.27 19,617,816.27 19,621,806.08 19,629,783.59 19,799,417.40 19,414,643.21 19,569,882.27 27,583,420.32 35,444,168.12 35,032,125.00 0.00 255,753,578.65 0.56 100
+32 Water Resources Sub- Total 13,041,055,378.04 968,523,165.40 956,020,408.18 976,126,562.58 972,728,581.34 967,793,895.03 970,331,076.56 975,554,666.07 955,103,660.76 1,369,131,405.47 1,775,511,776.06 1,723,165,209.27 399,509,247.55 13,009,499,654.27 31,555,723.77 100
+33 SURVEYOR-GENERAL Sub- Total 3,330,713,956.36 245,253,697.80 246,618,881.38 281,514,014.71 280,808,599.09 312,235,229.72 278,954,604.82 269,567,635.20 277,963,367.43 315,214,031.38 412,590,358.60 380,878,484.99 29,115,050.00 3,330,713,955.12 1.24 100
+34
+ ARTS & CULTURE, 
+CREATIVE ECONOMY Sub- Total 19,201,525,911.58 1,770,478,851.08 1,756,974,129.29 1,677,210,012.35 1,776,212,281.04 1,802,258,115.01 1,813,152,603.81 1,811,712,406.68 1,768,022,536.54 2,262,808,511.08 1,812,010,857.45 758,707,480.95 191,872,046.14 19,201,419,831.42 106,080.16 100
+35 Justice Sub- Total 35,357,740,985.04 2,811,769,753.48 2,875,489,920.96 3,586,826,588.04 3,628,746,694.98 4,490,744,654.83 3,627,250,076.93 3,606,457,924.02 3,604,277,614.76 4,412,585,904.02 2,349,799,254.10 319,664,216.28 43,927,977.61 35,357,540,580.01 200,405.03 100
+36
+INDEPENDENT CORRUPT 
+PRACTICES AND RELATED 
+OFFENCES COMMISSION Sub- Total 11,133,173,015.00 855,678,512.61 834,798,348.35 847,378,424.24 833,454,611.17 829,089,621.07 827,948,074.63 999,231,405.70 855,666,222.98 803,141,908.94 853,378,101.67 877,593,009.78 858,608,477.09 10,275,966,718.23 857,206,296.77 92
+37
+CODE OF CONDUCT 
+BUREAU Sub- Total 2,384,375,486.00 220,950,012.54 219,976,812.24 239,590,358.93 270,374,553.72 237,389,606.15 244,051,611.47 244,171,808.15 239,718,163.20 310,120,666.35 158,031,893.00 0.00 0.00 2,384,375,485.75 0.25 100
+38 Women Affairs Sub- Total 2,041,591,535.00 160,899,006.28 160,899,006.28 164,436,113.74 161,824,625.15 157,495,235.47 156,425,855.70 155,346,008.52 153,873,170.45 215,932,894.18 342,661,876.49 211,908,000.00 0.00 2,041,701,792.26 -110,257.26 100
+39
+ SPORTS DEVELOPMENT - 
+HQTRS Sub - Total 3,235,718,493.65 251,852,225.00 253,190,312.45 257,606,474.52 252,273,929.24 252,984,977.85 252,571,216.34 249,791,706.22 244,534,778.61 337,265,045.19 479,466,447.32 376,403,014.77 27,778,364.00 3,235,718,491.51 2.14 100
+40 WOMEN AFFAIRS Sub - Total 1,628,546,896.80 126,936,563.99 126,015,995.19 128,786,580.81 133,458,283.72 151,024,888.80 133,077,788.85 129,001,156.86 131,894,616.11 219,318,569.63 288,512,301.00 60,520,151.00 0.00 1,628,546,895.96 0.84 100
+41 EDUCATION - Sub - Total 785,009,901,823.83 50,758,262,155.81 50,596,650,889.69 62,711,551,662.84 66,777,309,383.36 79,011,745,284.33 65,071,322,088.27 64,336,248,306.79 63,257,926,376.02 73,468,053,472.21 79,294,815,473.47 71,177,480,269.65 42,863,310,690.99 769,324,676,053.43 15,685,225,770.40 98
+42
+ HEALTH AND SOCIAL 
+WELFARE sub-total 645,820,994,393.18 40,065,612,419.78 46,160,401,900.06 52,203,743,444.00 48,066,608,447.46 47,517,138,181.06 48,117,995,227.12 48,912,799,938.02 49,077,354,130.31 54,279,256,061.51 57,485,120,568.73 56,281,506,193.47 53,009,886,988.65 601,177,423,500.17 44,643,570,893.01 93
+43 ENVIRONMENT sub-total 28,747,803,445.59 2,194,508,758.64 2,206,332,590.46 2,275,403,659.93 2,386,248,265.14 2,566,793,966.64 2,488,732,590.75 2,156,412,700.34 2,383,949,234.58 2,835,303,063.22 3,808,467,977.73 1,821,664,380.22 1,529,656,910.12 28,653,474,097.77 94,329,347.82 100
+44 NATIONAL POPULATION sub-total 10,822,931,206.00 955,566,327.87 950,051,242.92 948,524,532.15 960,042,719.42 952,603,603.67 951,273,695.81 944,306,929.04 2,530,616,320.05 1,266,344,056.36 363,601,778.71 0.00 0.00 10,822,931,206.00 0.00 100
+45
+Humanitarian Affairs, 
+Disaster Management Sub-Total 171,490,514,800.87 14,130,826,540.69 14,128,069,178.66 14,189,856,082.77 14,180,548,339.50 14,180,406,567.28 14,346,177,385.99 14,168,685,015.20 14,453,055,689.00 14,812,377,376.66 15,713,783,344.92 15,281,989,093.88 11,820,113,284.88 171,405,887,899.43 84,626,901.44 100
+4,810,733,181,238.36410,133,732,320.69 352,209,016,668.17 393,278,905,976.86 385,241,509,924.61 403,607,195,904.32380,014,894,185.18445,095,088,179.77 380,403,813,832.28 440,962,908,744.28 500,809,936,252.73 451,116,767,388.21 196,748,493,796.00 4,739,415,895,582.7771,247,154,165.79 99TOTAL
