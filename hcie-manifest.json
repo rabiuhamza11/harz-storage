@@ -1,0 +1,52 @@
+{
+ "schema": "hcie-manifest-v1",
+ "generated_at": "2026-11-01T04:01:48.076Z",
+ "source": "hcie-wave1",
+ "documents": [
+  {
+   "id": "1992",
+   "path": "hcie-docs/1992.json",
+   "sha256": "2b3c9370bbef93a167607b05342011e32bd4f61de7f2094ff4411f04b98b5e42"
+  },
+  {
+   "id": "1993",
+   "path": "hcie-docs/1993.json",
+   "sha256": "190be12261efed70853028b56895795f5da553a17bffafc460c567ef9f26d0c6"
+  },
+  {
+   "id": "1994",
+   "path": "hcie-docs/1994.json",
+   "sha256": "56b8a53c74cc6cbe45595475f88a02bcab38a4f731a811a898754f4a1c1f331e"
+  },
+  {
+   "id": "1995",
+   "path": "hcie-docs/1995.json",
+   "sha256": "54bffbcb0f798fe869ea86ba39ed3451b67953bb1b6854e102eab983005c9ed6"
+  },
+  {
+   "id": "1996",
+   "path": "hcie-docs/1996.json",
+   "sha256": "22acb236133e6f3f0ae1d4992c04d94c0aa2eac380de622f8e8c013c6c3431e2"
+  },
+  {
+   "id": "1997",
+   "path": "hcie-docs/1997.json",
+   "sha256": "8ba46cdb2c9100c70f19c80e2db304b13aeebacc6a944e4dae8024dc43e69919"
+  },
+  {
+   "id": "1998",
+   "path": "hcie-docs/1998.json",
+   "sha256": "0698931c79a3c0c7fa0496a9c895693b8fe38f9dbcaf87b8c011448761574657"
+  },
+  {
+   "id": "1999",
+   "path": "hcie-docs/1999.json",
+   "sha256": "8f9fbcc09ae402bc6c7c0b6f77e9691722f3cbcebb37322cd455e3ea5715472a"
+  },
+  {
+   "id": "2000",
+   "path": "hcie-docs/2000.json",
+   "sha256": "1b96c4b94fddefe9d7e2bd5210ff8a6c3ddc0c4514ce5bde3ccdedf01698a683"
+  }
+ ]
+}
